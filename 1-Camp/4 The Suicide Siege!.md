@@ -1,12 +1,12 @@
-**The Suicide Ambush!** {.text-center}
+**The Suicide Ambush!** {.text_center}
 
-![The ambush](/Images/Cultist-Ambush.jpg)
+![The ambush](/Images/Cultist_Ambush.jpg)
 
 The PCs are informed of their quest, fully outfitted, and have some inkling of what they are to do. The mercenaries of the camp continue to patrol the surrounding environs, their primary mission to protect the simple farmers and fishermen of the village. Lord Laberge escort the heroes to the edge of the camp and bid them farewell and Godspeed, but before the PCs are able to travel far, there are screams heard from the forest in every direction!
 
 > Eight men burst from the trees, and at first it looks as if they are charging at you, but no, you quickly realize, they are charging straight at some sinister humanoid form. The monster stands about 50 paces from where you look, silhouetted against the sun, half hidden by foliage. The men rip open dark, tattered lavender tunics as they run toward this being, exposing their bare chests. They yell out, “Harvest Me O Lord” and are quickly approaching the creature as you react. Any of the men who reach the monster are quickly shredded into bloody bits, blood spraying so ridiculously high that it almost seems like a sideshow at a macabre circus. These are the cultists, who believe to be murdered by the Harvester means eternal life. They are dead wrong, but only in a way. Sure enough, these men will reform to fight the PCs.  {.read} 
 
-And here is the Harvester, pure hate and drive, unthinking, uncaring about these worshiping fleshbags. Whatever, it think in its limited capacity, kill and kill alike. But the Harvester, for all the fear that it may inspire---and as impossible as it may be to kill---is still in a weakened state and will not full-out attack the adventuring party. It will retreat after converting some of the cultists to undead battle slaves.
+And here is the Harvester, pure hate and drive, unthinking, uncaring about these worshiping fleshbags. Whatever, it think in its limited capacity, kill and kill alike. But the Harvester, for all the fear that it may inspire___and as impossible as it may be to kill___is still in a weakened state and will not full_out attack the adventuring party. It will retreat after converting some of the cultists to undead battle slaves.
 
 If the PCs get too close to the Harvester before he’s ready to entirely reveal itself, he will “kill” himself, throwing himself down upon his own scythe, exploding into a cloud of dry inkiness and then dissolving into wispy smoke shredded by the breeze (along with the scythe itself). This method of departure should be unnerving to say the least, and is precisely the sort of tactic that inspired some of the cultists in the first place...
 
@@ -76,6 +76,6 @@ Sword (specific) to the Heart. The Harvester is destroyed if a specific legendar
 
 Actions
 
-Scythe (Heavy, two-handed) - 4 (2d4) slashing +6 to hit plus 7 (2d6) necrotic damage damage. 5 lb. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Scythe (Heavy, two_handed) _ 4 (2d4) slashing +6 to hit plus 7 (2d6) necrotic damage damage. 5 lb. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 Claws. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4+3) slashing damage. Instead of dealing damage, the Harvester can grapple the target (escape DC 13).

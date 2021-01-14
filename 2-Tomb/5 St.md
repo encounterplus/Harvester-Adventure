@@ -1,7 +1,6 @@
-**St. Frederick’s Crypt** {.text-center}
+**St. Frederick’s Crypt** {.text_center}
 
-![My Image Description](Images/HoS-CoSF-GM-Map1a)
-
+![Map](/Images/HoS_CoSF_GM_Map1a.png)
 
 GM Info
 
@@ -13,14 +12,14 @@ One thing to note is that the crawler creature isn’t so random in the sense th
 
 Encounter type
 
-01-17 1d6 Giant Rats (1/8 CR, 25 XP)
+01_17 1d6 Giant Rats (1/8 CR, 25 XP)
 
-18-33 1D4 Giant bats (1/4 CR, 50 XP)
+18_33 1D4 Giant bats (1/4 CR, 50 XP)
 
-34-50 1D6 Giant rats (1/8 CR, 25 XP)
+34_50 1D6 Giant rats (1/8 CR, 25 XP)
 
-51-66 1D6 Goblins (1/4 CR, 50 XP)
+51_66 1D6 Goblins (1/4 CR, 50 XP)
 
-67-83 1D4 Orcs (1/2 CR, 100 XP)
+67_83 1D4 Orcs (1/2 CR, 100 XP)
 
-84-00 1 Specter (1 CR, 200 XP)
+84_00 1 Specter (1 CR, 200 XP)

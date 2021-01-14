@@ -1,10 +1,10 @@
-2: Hall of Welcoming
+# 2: Hall of Welcoming
 
-Player’s Info
+## Player’s Info
 
 In the middle of this hall you see a large basin filled with murky water to which is affixed a placard engraved with writing. Walls are built from very large and heavy stone bricks. The stone bricks glisten with moisture and are covered with cobwebs. The hall splits into many corridors to the south and east.
 
-GM Info
+## GM Info
 
 This corridor features many openings. A stone floor tile is equivalent to 5 feet as shown on the map. Just like the stairs area, the ceiling is about 10 feet high, and the corridor’s dimensions changes with certain areas. Walls are built from very large and heavy stone bricks. The rest of the crypt follows the same pattern and description for ceiling, walls, and floors, unless otherwise stated.
 

@@ -1,10 +1,10 @@
-1: Entrance
+# 1: Entrance
 
-Player’s Info
+## Player’s Info
 
 There is a heavy humidity, and the foul smell of rot assaults your senses as you descend the darkened stairs. Strange sounds caused by the strong, cold wind greet you at the entrance, reverberating through the nearby stairwell. 40 feet down and you begin to feel engulfed by a permeating miasma of death.
 
-GM Info
+## GM Info
 
 Unless the party has a means of seeing in the dark, the area is pitch black. The ceiling is approximately 10 feet high, the steps about 10 feet wide and about 20 feet long, but the staircase is 40 feet high so the steps are steep.
 
