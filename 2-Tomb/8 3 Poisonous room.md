@@ -4,6 +4,8 @@
 
 The first things your party notices in this room are 8 steel-like lids occupying the floor in the center of the room. There’s some rust on them but otherwise they look like they are in good condition. However, there are the corpses of 3 adventurers lying around them, two of them holding their necks in rigamortus. The room also features 4 small sections which feature steel levers which appear to be in a reset position.
 
+![Poison Room](/Images\Poison_Room.png)
+
 ## GM Info
 
 The levers (Which are numbered at their bases!) when pulled in the right combination open the locked stone doors of area 4 to reveal the moon and sun fountains. Not all the levers are visible from every vantage point, so it may help to sketch out the map for the players.
