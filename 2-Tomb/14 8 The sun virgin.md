@@ -1,12 +1,12 @@
-8: The sun virgin
+# 8: The sun virgin
 
-Player’s Info
+## Player’s Info
 
 This area appears to be a giant spider nest. However, the opening north of the end of the corridor displays a statue of a beautiful young woman, a golden bowl with the emblem of the sun rests in her sculpted hands. Her fair countenance is juxtaposed by imagines of death, a pile of humanoid skulls lying at her feet among the thick webs.
 
-GM Info
+## GM Info
 
-Under the pile of skulls is hidden a valuable treasure for the party, a Dagger of Venom (see SRD5 p. 215)
+Under the pile of skulls is hidden a valuable treasure for the party, a Dagger of Venom (see SRD5 p. 215).
 
 However, the most important treasure found in this area is the golden sun bowl held by the sun virgin to help open the tomb of St. Frederick. Finding this treasure provides the party with 100 bonus XP points.
 

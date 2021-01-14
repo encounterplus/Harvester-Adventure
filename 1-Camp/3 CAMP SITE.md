@@ -31,7 +31,7 @@ The mercenaries were more nervous at night because that is when the monster is m
  
  > I am terribly sorry the accommodations are makeshift, inadequate for those of either renown or infamy. However, this secluded camp serves a purpose. This matter is to be kept from common folk’s ears. We must avoid general panic leading to chaos. We are faced with a new and serious threat. Many serfs and farmers of my land have gone missing, or have been killed, and now the killings are getting closer and closer to Poisson. It’s normally goblin hordes from the southern borders causing problems, but the horrors we’ve seen speak of demonic activity. The demonic fiend known as the “Harvester of Souls” now roams the land and it must be dealt with haste for fear that it gains back its full strength and power becoming stronger and stronger as time goes by. {.read}
 
-**The Order of Chaplains**: Chaplains use their magic in the course of their work to heal the faithful, exorcise demons, and strike down the unworthy, but also to manifest the divine favor of Sol in their services. The Order of Chaplains serves all Psarmorum. All ordained priests, from the Bishop of the city of the Temple Mount on down, are initiated members of the order. 
+**GM Info: The Order of Chaplains**: Chaplains use their magic in the course of their work to heal the faithful, exorcise demons, and strike down the unworthy, but also to manifest the divine favor of Sol in their services. The Order of Chaplains serves all Psarmorum. All ordained priests, from the Bishop of the city of the Temple Mount on down, are initiated members of the order. 
 
  > “I offer reward for those who travel to the crypt and find the sword within, then hunt down and slay the harvester in its lair, with all due haste. Fortunately, local rangers tracked down the fiend and discovered its lair where it rests and regenerates during its daytime slumber. Only one ranger made it back alive to report its whereabouts, so we know it can be awakened during the day, even if in a weakened state. Two adventuring parties before you answered our plea. However, quite regretfully, not even one member has returned. Will you be the victorious party? Are you heroic enough to fetch the sword and slay the fiend? If so great riches and fresh arable land await you! If not, we pray to Sol that someone will have the guts to save us all!” {.read}
 
@@ -57,6 +57,47 @@ More questions about the Harvester of Souls itself:
 
 To Neutralize the Harvester: The sword must be used to immobilize the Harvester. The local sage has knowledge of the whereabouts of a runic coffin where the Harvester can be placed. Once the monster is in the coffin the sword may be removed and the lid closed. This prevents its reanimation. That coffin can be transported to the priesthood where they’re most powerful can destroy it. If anybody other than the order of chaplains attempts to take the sword, it will anger the priesthood, probably triggering a visit from justicars. Returning the sword to the chaplains may be a side quest if others in town are intent on stealing or keeping it for themselves.
 
+
+## Lord Mayor Marcel Laberge
+
+![/Mayor](/Images/Mayor_Portrait1a.png =300x)
+
+Male Human Fighter 5
+
+Medium humanoid, no alignment
+
+Armor Class 16 (chain mail)
+
+Hit Points 44 (5d10+10)
+
+Speed 30 ft.
+
+STR 17 (+3), DEX 15 (+2), CON 15 (+2), INT 12 (+1), WIS 10 (+0), CHA 11 (+0)
+
+Saving Throws Str +6, Con +5
+
+Skills History +4, Survival +3
+
+Senses passive Perception 10
+
+Languages Common, Elvish
+
+Challenge 2 (450 XP)
+
+Actions
+
+Greatsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+Hit: 10 (2d6+3) slashing damage.
+
+Longbow. Ranged Weapon Attack: +7 to hit, range 150 ft./600 ft., one target.
+
+Hit: 6 (1d8+2) piercing damage.
+
+Unarmed Strike. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
+
+Hit: 4 bludgeoning damage.
+
 _GM Info_
 
 The camp features three core tents, one is for the mercenaries on watch, another for the travelling merchant (which also houses his personal mercenary contingent) and the last, fanciest one is for the Lord mayor and his personal bodyguards.
@@ -71,7 +112,7 @@ Stealing any content from any of the tents is possible, however it would prove q
 
 ## Lord Mayor Bodyguards
 
-
+![Guard](/Images/Mayor_Guard_Portrait.png =300x)
 
 Armor Class 15 (chain shirt, shield)
 
@@ -108,6 +149,8 @@ Hit: 5 (1d6+2) bludgeoning damage.
 Treasure: 1 quiver with 1D12 +12 arrows, 1 belt pouch with 1D20 copper, 1D12 silver, and 1D12 gold.
 
 ### Mercenary
+
+![Mercenaries](/Images/Merchant_Guard_Portrait1a.png =300x)
 
 Armor Class 14 (leather armor, shield)
 
@@ -211,126 +254,22 @@ The merchant was summoned by the lord mayor to re-supply a party even though the
 
 Merchant Supplies: Jean-Luc can provide the party some supplies from this list. The GM may assume he can sell standard weaponry as well.
 
-Supplies
+|           Supplies          |   Cost  |
+|:---------------------------:|:-------:|
+| Back pack                   | 2 gold  |
+| Balm of St. Paul(NEW Item!) | 12 gold |
+| Belt pouch                  | 5 sp    |
+| Dry rations (4)             | 5 sp    |
+| Flint and steel             | 1 gp    |
+| Grappling hook              | 2 gp    |
+| Lantern (hooded)            | 5 gp    |
+| Oil pot                     | 1 gp    |
+| Potentia leaf(NEW Item!)    | 50 gold |
+| Shoulder bag                | 1 gp    |
+| Silk rope (50 feet)         | 10 gp   |
+| Torch                       | 1 cp    |
+| Water skin                  | 2 sp    |
 
-Initial stock
+>Balm of St-Paul (NEW Magical Item, Wondrous Item, Rare): This balm, usually contained within a sturdy pot of ceramic, holds 4 doses of thick, creamy, white paste, made mostly from Sambucus Nigra. It’s mixed with a heavy dose of troll and ogre fat, and said to treat fever quickly. It only requires a check of Wisdom versus DC 10 for the balm to take effect, which does so under about 30 mins. The creature that receives it regains 2d10 + 4 hit points, ceases to be poisoned, and is cured of any disease. {.paper}
 
-Back pack
-
-2 gold
-
-6
-
-Balm of St. Paul(NEW Item!)
-
-12 gold
-
-11
-
-Belt pouch
-
-5 sp
-
-11
-
-Dry rations (4)
-
-5 sp
-
-54
-
-Flint and steel
-
-1 gp
-
-7
-
-Grappling hook
-
-2 gp
-
-3
-
-Lantern (hooded)
-
-5 gp
-
-9
-
-Oil pot
-
-1 gp
-
-13
-
-Potentia leaf(NEW Item!)
-
-50 gold
-
-7
-
-Shoulder bag
-
-1 gp
-
-4
-
-Silk rope (50 feet)
-
-10 gp
-
-3
-
-Torch
-
-1 cp
-
-24
-
-Water skin
-
-2 sp
-
-17
-
-**Balm of St-Paul (NEW Magical Item, Wondrous Item, Rare): This balm, usually contained within a sturdy pot of ceramic, holds 4 doses of thick, creamy, white paste, made mostly from Sambucus Nigra. It’s mixed with a heavy dose of troll and ogre fat, and said to treat fever quickly. It only requires a check of Wisdom versus DC 10 for the balm to take effect, which does so under about 30 mins. The creature that receives it regains 2d10 + 4 hit points, ceases to be poisoned, and is cured of any disease.
-
-**Potentia Leaf (NEW Item!, Wondrous Item, Uncommon): This is a three-headed, long green and red leaf. It’s the size of a palm, found from a flower growing exclusively in the Ghost Marsh. The correct application of this leaf requires a healing check against a DC 15 Wisdom (Medicine) check, because the leaf must be chewed into a thick paste, but never swallowed, else one will quickly find the leaf highly toxic. The paste must be instantly applied on open wounds or burns, and if done right the leafy green putty heals 2d4+2 HP. The healing of this miraculous plant takes effect immediately, almost instantly sealing a wound, and stopping any bleeding or oozing. However due to its toxicity, failing the healing check means the balm may harm the patient and deal 1D4 HP of damage! Luckily, an easy (vs. 10) Constitution check can prevent the HP loss (though it still feels like a burn).
-
-Lord Mayor Marcel Laberge
-
-Male Human Fighter 5
-
-Medium humanoid, no alignment
-
-Armor Class 16 (chain mail)
-
-Hit Points 44 (5d10+10)
-
-Speed 30 ft.
-
-STR 17 (+3), DEX 15 (+2), CON 15 (+2), INT 12 (+1), WIS 10 (+0), CHA 11 (+0)
-
-Saving Throws Str +6, Con +5
-
-Skills History +4, Survival +3
-
-Senses passive Perception 10
-
-Languages Common, Elvish
-
-Challenge 2 (450 XP)
-
-Actions
-
-Greatsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
-
-Hit: 10 (2d6+3) slashing damage.
-
-Longbow. Ranged Weapon Attack: +7 to hit, range 150 ft./600 ft., one target.
-
-Hit: 6 (1d8+2) piercing damage.
-
-Unarmed Strike. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
-
-Hit: 4 bludgeoning damage.
+> Potentia Leaf (NEW Item!, Wondrous Item, Uncommon): This is a three-headed, long green and red leaf. It’s the size of a palm, found from a flower growing exclusively in the Ghost Marsh. The correct application of this leaf requires a healing check against a DC 15 Wisdom (Medicine) check, because the leaf must be chewed into a thick paste, but never swallowed, else one will quickly find the leaf highly toxic. The paste must be instantly applied on open wounds or burns, and if done right the leafy green putty heals 2d4+2 HP. The healing of this miraculous plant takes effect immediately, almost instantly sealing a wound, and stopping any bleeding or oozing. However due to its toxicity, failing the healing check means the balm may harm the patient and deal 1D4 HP of damage! Luckily, an easy (vs. 10) Constitution check can prevent the HP loss (though it still feels like a burn). {.paper}

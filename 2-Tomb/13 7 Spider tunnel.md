@@ -1,10 +1,12 @@
-7: Spider tunnel
+# 7: Spider tunnel
 
-Player’s Info
+## Player’s Info
 
 This corridor goes south, then terminates turns to the left (west). It’s difficult to determine any details around the corner due to the huge thick spider webs covering the entire small corridor. There seems to be a medium sized tunnel formed out of thick webs. The area is crawling with thousands of various little spiders.
 
-GM Info
+![Spiderwebs](/Images\HoS_CoSF_Play_webs_and_skulls.png)
+
+## GM Info
 
 There are hundreds of spiders of all kind every 5 feet. Most are not dangerous, but a PC with a spider phobia must succeed with a Wisdom check (vs. Hard-20), or else be incapable of going near that corridor.
 
@@ -14,7 +16,9 @@ A staff is the best weapon/tool to get rid of the webs by this method. One staff
 
 If a PC is foolish enough to try and pass through the web-filled corridor without removing them first, then he will become entangled so badly that he will fall, or hang in the webs and become completely enwrapped, stuck and paralyzed by them (Strength Check versus 15 to break free before going too deep). Regardless of how the party handles the webs, the moment the teardrop spider from area 8 feels vibration it charges in to kill (SRD5, p. 379).
 
-Giant Spider (Teardrop Spider Variation)
+## Giant Spider (Teardrop Spider Variation)
+
+![Spider](/Images\Teardrop_Spider1a.png)
 
 Large beast, unaligned
 

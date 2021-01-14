@@ -4,6 +4,8 @@
 
 In the middle of this hall you see a large basin filled with murky water to which is affixed a placard engraved with writing. Walls are built from very large and heavy stone bricks. The stone bricks glisten with moisture and are covered with cobwebs. The hall splits into many corridors to the south and east.
 
+![Water Basin](/Images/Water_Basin.png =400x)
+
 ## GM Info
 
 This corridor features many openings. A stone floor tile is equivalent to 5 feet as shown on the map. Just like the stairs area, the ceiling is about 10 feet high, and the corridor’s dimensions changes with certain areas. Walls are built from very large and heavy stone bricks. The rest of the crypt follows the same pattern and description for ceiling, walls, and floors, unless otherwise stated.
@@ -18,15 +20,15 @@ The purpose of the plaque is to discourage superstitious people from exploring f
 
 To keep the basin filled and to keep the illusion that it fills itself miraculously by its own, a cleric occasionally comes to fill the basin with nearby spring water.
 
-In the south direction there are two corridors, one which leads to area 3 and one which leads to area 3 contains two cut slit shapes from floor to ceiling each facing to each other and which hide sliding steel doors that only close if the trap in area
-
-3 contains two cut slit shapes from floor to ceiling each facing to each other and which hide sliding steel doors that only close if the trap in area 3 is triggered.
+In the south direction there are two corridors, one which leads to area 3 and one which leads to area 3 contains two cut slit shapes from floor to ceiling each facing to each other and which hide sliding steel doors that only close if the trap in area 3 contains two cut slit shapes from floor to ceiling each facing to each other and which hide sliding steel doors that only close if the trap in area 3 is triggered.
 
 About 15 to 20 feet east of the basin is a secret passage that only a PC actively searching may discover with a successful Wisdom (Perception) check (vs. Medium-15). The secret doorway is triggered by pushing a brick in the ceiling just over it, and the passage leads to area 10.
 
 Near the secret passage in the corner, part of the wall has collapsed and filled the floor with rubble. In the debris there is an aggressive and semi-sentient magical construct; a Bull Brick monster, acting as a guardian. It charges if triggered (See below) if a party member gets 5 feet near it.
 
-Bull Brick
+## Bull Brick
+
+![Bullbrick](/Images/Bullbrick1a.png =400x)
 
 Small construct, unaligned
 
