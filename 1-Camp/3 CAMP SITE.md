@@ -31,6 +31,8 @@ The mercenaries were more nervous at night because that is when the monster is m
  
  > I am terribly sorry the accommodations are makeshift, inadequate for those of either renown or infamy. However, this secluded camp serves a purpose. This matter is to be kept from common folk’s ears. We must avoid general panic leading to chaos. We are faced with a new and serious threat. Many serfs and farmers of my land have gone missing, or have been killed, and now the killings are getting closer and closer to Poisson. It’s normally goblin hordes from the southern borders causing problems, but the horrors we’ve seen speak of demonic activity. The demonic fiend known as the “Harvester of Souls” now roams the land and it must be dealt with haste for fear that it gains back its full strength and power becoming stronger and stronger as time goes by. {.read}
 
+ (print-page)
+
 **GM Info: The Order of Chaplains**: Chaplains use their magic in the course of their work to heal the faithful, exorcise demons, and strike down the unworthy, but also to manifest the divine favor of Sol in their services. The Order of Chaplains serves all Psarmorum. All ordained priests, from the Bishop of the city of the Temple Mount on down, are initiated members of the order. 
 
  > “I offer reward for those who travel to the crypt and find the sword within, then hunt down and slay the harvester in its lair, with all due haste. Fortunately, local rangers tracked down the fiend and discovered its lair where it rests and regenerates during its daytime slumber. Only one ranger made it back alive to report its whereabouts, so we know it can be awakened during the day, even if in a weakened state. Two adventuring parties before you answered our plea. However, quite regretfully, not even one member has returned. Will you be the victorious party? Are you heroic enough to fetch the sword and slay the fiend? If so great riches and fresh arable land await you! If not, we pray to Sol that someone will have the guts to save us all!” {.read}
@@ -42,6 +44,8 @@ The player characters will certainly ask questions or require more info during t
 **Questions about the fiend and its victims**: The lord mayor knows more than he’s willing to say, but won’t reveal why the fiend is free because he doesn’t know how that happened. But what he can say is that the “Harvester of Souls” name comes from the fact that when this fiend kills it steals the soul of its victim. Sometimes such victim comes back as a terrifying undead creature which tries to find a soul back. He also says that victims are often cut in two with just one hit. Over 60 years ago, when he was a young boy, he vividly remembers something about cultists summoning this fiend to find immortality and some cultist relatives might still exist today and may still be loyal to the “Harvester of Souls”.
 
 > Don’t be fooled by the nature of this quest, this is no ordinary monster hunt. This fiend cannot be killed by normal means. In fact, it cannot be killed at all. It can only be stopped, and only one weapon can do that. I am referring to the sword of St. Frederick, a weapon blessed by archangel Dumah. The blade was wielded by the late paladin Frederick Lachance who once defeated the Harvester.” “Unfortunately, to protect the relic from the old cult of the ‘Harvester of Souls’, those who summoned the fiend you must now stop, the The Order of Chaplains hid St. Frederick’s holy weapon well. Nobody has been successful in an attempt to retrieve the sword. The crypt where it is hidden is filled with traps. Its wards have stopped many would be thieves, treasure hunters, and most importantly, the cultists who’d seek to control the very being they pretend to worship. We are the founding members of Chevaliers de la Chauve-Souris, and so we know where the crypt lies. However, we have no idea how one is to find the sword. Being that the harvester has returned, I can only hope the sword is still there, for all our  sakes.” {.read}
+
+(print-page)
 
 **Questions about the Crypt of St. Frederick**: 
 
@@ -57,45 +61,27 @@ More questions about the Harvester of Souls itself:
 
 To Neutralize the Harvester: The sword must be used to immobilize the Harvester. The local sage has knowledge of the whereabouts of a runic coffin where the Harvester can be placed. Once the monster is in the coffin the sword may be removed and the lid closed. This prevents its reanimation. That coffin can be transported to the priesthood where they’re most powerful can destroy it. If anybody other than the order of chaplains attempts to take the sword, it will anger the priesthood, probably triggering a visit from justicars. Returning the sword to the chaplains may be a side quest if others in town are intent on stealing or keeping it for themselves.
 
+(print-page)
 
 ## Lord Mayor Marcel Laberge
-
 ![/Mayor](/Images/Mayor_Portrait1a.png =300x)
-
 Male Human Fighter 5
-
 Medium humanoid, no alignment
-
 Armor Class 16 (chain mail)
-
 Hit Points 44 (5d10+10)
-
 Speed 30 ft.
-
 STR 17 (+3), DEX 15 (+2), CON 15 (+2), INT 12 (+1), WIS 10 (+0), CHA 11 (+0)
-
 Saving Throws Str +6, Con +5
-
 Skills History +4, Survival +3
-
 Senses passive Perception 10
-
 Languages Common, Elvish
-
 Challenge 2 (450 XP)
-
 Actions
-
 Greatsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
-
 Hit: 10 (2d6+3) slashing damage.
-
 Longbow. Ranged Weapon Attack: +7 to hit, range 150 ft./600 ft., one target.
-
 Hit: 6 (1d8+2) piercing damage.
-
 Unarmed Strike. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
-
 Hit: 4 bludgeoning damage.
 
 _GM Info_
@@ -110,144 +96,83 @@ The camp features three core tents, one is for the mercenaries on watch, another
 
 Stealing any content from any of the tents is possible, however it would prove quite difficult. The mercenaries and watchmen keep a good eye on any outsiders.
 
+(print-page)
+
 ## Lord Mayor Bodyguards
-
 ![Guard](/Images/Mayor_Guard_Portrait.png =300x)
-
 Armor Class 15 (chain shirt, shield)
-
 Hit Points 32 (5d8+10)
-
 Speed 30 ft.
-
 STR 15 (+2), DEX 11 (+0), CON 14 (+2), INT 10 (+0), WIS 10 (+0), CHA 11 (+0)
-
 Skills Intimidation +2, Survival +2
-
 Senses passive Perception 10
-
 Languages any one language (usually common)
-
 Challenge 1 (200 XP)
-
 Actions
-
 Multiattack. The bodyguard makes two melee attacks.
-
 Heavy Crossbow. Ranged Weapon Attack: +2 to hit, range 100 ft./400 ft., one target.
-
 Hit: 5 (1d10) piercing damage.
-
 Longsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
-
 Hit: 6 (1d8+2) slashing damage or 7 (1d10+2) slashing damage if used with two hands to make a melee attack.
-
 Mace. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
-
 Hit: 5 (1d6+2) bludgeoning damage.
-
 Treasure: 1 quiver with 1D12 +12 arrows, 1 belt pouch with 1D20 copper, 1D12 silver, and 1D12 gold.
 
 ### Mercenary
-
 ![Mercenaries](/Images/Merchant_Guard_Portrait1a.png =300x)
-
 Armor Class 14 (leather armor, shield)
-
 Hit Points 11 (2d8+2)
-
 Speed 30 ft.
-
 STR 13 (+1), DEX 12 (+1), CON 12 (+1), INT 11 (+0), WIS 11 (+0), CHA 10 (+0)
-
 Skills Perception +2, Stealth +3
-
 Senses passive Perception 12
-
 Languages any one language (usually common)
-
 Challenge 1/8 (25 XP)
-
 Actions
-
 Light Crossbow. Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target.
-
 Hit: 5 (1d8+1) piercing damage.
-
 Dagger. Melee or Ranged Weapon Attack: +1 to hit, reach 5 ft. or range 20 ft./60 ft., one target.
-
+(print-page)
 Hit: 3 (1d4+1) piercing damage.
-
 Longsword. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
-
 Hit: 5 (1d8+1) slashing damage or 6 (1d10+1) slashing damage if used with two hands to make a melee attack.
-
 1 quiver with 1D12 +12 arrows. 1 belt pouch with 1D20 copper, 1D12 silver, and 1D12 gold.
-
 Treasure: 1D12 +12 bolts within a bolt case. 1 belt pouch with 1D20 copper, 1D12 silver, and 1D6 gold
 
 ### Merchant Mercenary
-
 Armor Class 16 (chain shirt, shield)
-
 Hit Points 11 (2d8+2)
-
 Speed 30 ft.
-
 STR 13 (+1), DEX 12 (+1), CON 12 (+1), INT 10 (+0), WIS 11 (+0), CHA 10 (+0)
-
 Skills Perception +2
-
 Senses passive Perception 12
-
 Languages any one language (usually common)
-
 Challenge 1/8 (25 XP)
-
 Actions
-
 Light Crossbow. Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target.
-
 Hit: 5 (1d8+1) piercing damage.
-
 Dagger. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20 ft./60 ft., one target.
-
 Hit: 3 (1d4+1) piercing damage.
-
 Longsword. Melee Weapon Attack: +1 to hit, reach 5 ft., one target.
-
 Hit: 5 (1d8+1) slashing damage or 6 (1d10+1) slashing damage if used with two hands to make a melee attack.
-
 Treasure: 1 crossbow bolt with 1D12 + 6 Bolts, 1 haubert/chain armor (1D8 TP, Light.), 1 belt pouch with 1D20 copper, 1D12 silver, and 1D12 gold
 
+(print-page)
+
 Jean-Luc Dubois (Merchant)
-
 Male Human
-
 Medium humanoid, no alignment
-
 Armor Class 11
-
 Hit Points 11 (2d8+2)
-
 Speed 30 ft.
-
 STR 13 (+1), DEX 12 (+1), CON 10 (+0), INT 14 (+2), WIS 11 (+0), CHA 15 (+2)
-
 Senses passive Perception 10
-
 Languages Common, Thieves' Cant
-
 Challenge 0 (10 XP)
-
 Actions
-
 Dagger. Melee or Ranged Weapon Attack: +1 to hit, reach 5 ft. or range 20 ft./60 ft., one target.
-
 Hit: 3 (1d4+1) piercing damage.
-
 Unarmed Strike. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
-
 Hit: 2 bludgeoning damage.
 
 The merchant was summoned by the lord mayor to re-supply a party even though the mayor himself provides some free supply (gear worth 25 gold that the party may choose from the merchant’s list), the merchant is there for extra but as the party closes in they can hear the merchant arguing about not giving away too much to the party or else he won’t make a dime and he will have to leave immediately.

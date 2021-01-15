@@ -10,6 +10,8 @@ And here is the Harvester, pure hate and drive, unthinking, uncaring about these
 
 If the PCs get too close to the Harvester before he’s ready to entirely reveal itself, he will “kill” himself, throwing himself down upon his own scythe, exploding into a cloud of dry inkiness and then dissolving into wispy smoke shredded by the breeze (along with the scythe itself). This method of departure should be unnerving to say the least, and is precisely the sort of tactic that inspired some of the cultists in the first place...
 
+(print-page)
+
 ### Cultists (6)
 
 Medium humanoid, chaotic evil
@@ -40,6 +42,8 @@ Hit: 3 (1d4+1) piercing damage.
 
 System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.
 
+(print-page)
+
 ### Harvester, lesser incarnation
 
 [derived from Vampire Spawn]
@@ -69,6 +73,8 @@ Challenge 5 (1,800 XP)
 Regeneration. The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn’t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn.
 
 Misty Escape: When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist instead of falling Unconscious, provided that it isn’t in sunlight or running water. If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then Paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
+
+(print-page)
 
 Weaknesses. The Harvester has the following flaws:
 
