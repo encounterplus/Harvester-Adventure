@@ -1,20 +1,20 @@
 **Harvester’s Lair** {.text-center}
 
-![Caves](Images/HoS-HL-GM-Map1a)
+![Caves](/Images\HoS_HL_GM_Map1a.png)
 
 # 1: Cave Entrance
 
-Player’s Info
+## Player’s Info
 
 You approach a cave as indicated by your map. The wide entrance set in a rocky overgrown hillside looks deep and dark without any sign of life. Before the entrance, on each side of a lone boulder, dance two trees by the wind’s music; that’s the only sound you can hear. Indeed, the area is eerily quiet.
 
-GM Info
+## GM Info
 
 As the party gets near the entrance they can smell rot and will notice black flies flying and buzzing all over the place.
 
 ## 2: Old bandit quarters
 
-Player’s Info
+### Player’s Info
 
 The wide cave here is big, between 50 and 80 feet in certain sections, featuring many exits and ceilings as high as 20 feet. The floor is speckled with fresh blood, attracting swarms of flies. The place looks like some people lived here. There is crude furniture around, such as a round wooden table, some wooden stools, and some wooden shelves hanging on uneven walls. On one of the shelves sits a small chest and some fur. Many ceramic or steel bowls, pots and utensils sit on makeshift wooden tables. Some crates are found deeper north along with a bag and a chest. On the far east side, there seems to be a camp fire still burning. To the west side, near two exits can be found a bedroll made of brown fur.
 
@@ -30,9 +30,9 @@ There is an old ratty journal on the floor here, and in it is what looks like a 
 
 “You may have heard the tale of the Harvester, that occult monster feeding on the souls of our townsfolk. That is terrible enough, but the consequence of a harvested corpse is also the stuff of nightmares. Necromancers will tell you that once a harvester has killed and fed on a soul, within twenty-four hours the remains of such victim’s body---often cut in half with the harvester’s scythe---rise to ‘instinctively’ find its soul. The living attracts the soul seeker, who endlessly mistakes any living soul as its own. It attacks with unnatural claws suddenly sprouting from its fingertips, attempting to rip a soul from the victim’s body, not stopping until destroyed (preferably by total incineration). Still, no one is quite sure of the exact appearance of a Soul Seeker. Maybe it’s because so few live to tell about their encounter with the mindless progeny of the Harvester. Survivors capable of rational speech can’t bear to describe this soul-drained aberration of a corpse”.
 
-The Sage Baltazar
+## Soul Seeker
 
-Soul Seeker
+![Soul Seeker](/Images\Soul_Seeker1a.png)
 
 [Derived from Ghoul stats and with some abilities related to The Roper]
 

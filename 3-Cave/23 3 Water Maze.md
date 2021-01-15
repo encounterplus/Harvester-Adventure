@@ -1,24 +1,22 @@
-3: Water Maze
+# 3: Water Maze
 
-![Water Maze](Images/HoS-HL-Play-Water Maze)
-
-Player’s Info
+### Player’s Info
 
 You approach an area filled with water, the tight passageways forming a natural labyrinth. The water dances and reflects everywhere on the walls. Nothing can be heard other than the steady drips of water.
 
-GM Info
+### GM Info
 
-The water is only 1 foot deep, but the splashes can warn the Harvester of Souls about the presence of the party. However there is 50% chance that the harvester does not react to mere movement, believing the noise is from the soul seekers found in area
-
-2.
+The water is only 1 foot deep, but the splashes can warn the Harvester of Souls about the presence of the party. However there is 50% chance that the harvester does not react to mere movement, believing the noise is from the soul seekers found in area 2.
 
 The dead end in the east wall used to serve as a latrine for the former bandits living here. It is not noteworthy aside from the foul odor.
 
-If the party heads to the small passageway in area
-
+If the party heads to the small passageway in area 
 4, there is 25% chance of encountering giant bats. The bats hang from the high ceiling of the passageway, 20 to 30 feet high. If noise occurs, they wake up and attack. As a warning to the party, large amounts of guano can be found on this floor.
 
-Giant Bat
+## Giant Bat
+
+![Giant Bat](/Images/Copy_of_Giant_Bat1a.png =300x)
+
 
 Large beast, unaligned
 
