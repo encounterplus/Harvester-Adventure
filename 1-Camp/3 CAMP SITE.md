@@ -4,7 +4,7 @@ Your adventure begins in an encampment, surrounded by three large tents spread o
 
 You hadn’t been heading toward this place, but realized you had an opportunity for riches after coming across a written plea for help nailed to an old wooden post along the road. The parchment offered a reward of 2500 gold to hunt down and destroy a monster.
 
-![Players Map](/Images/HoS_Camp_first_person.png)
+![Players Map](Images/HoS_Camp_first_person.png)
 
 **As adventurers, monster hunting is not typically the most lucrative of pursuits, but this was an unusually high reward. The post provided the location of an imminent meeting at a camp set up by Lord Marcel Laberge as a temporary outpost.**
 
