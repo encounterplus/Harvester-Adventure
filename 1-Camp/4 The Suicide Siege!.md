@@ -1,6 +1,6 @@
 **The Suicide Ambush!** {.text_center}
 
-![The ambush](/Images/Cultist_Ambush.jpg)
+![The ambush](../Images/Cultist_Ambush.png)
 
 The PCs are informed of their quest, fully outfitted, and have some inkling of what they are to do. The mercenaries of the camp continue to patrol the surrounding environs, their primary mission to protect the simple farmers and fishermen of the village. Lord Laberge escort the heroes to the edge of the camp and bid them farewell and Godspeed, but before the PCs are able to travel far, there are screams heard from the forest in every direction!
 

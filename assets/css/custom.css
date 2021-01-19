@@ -1,0 +1,54 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #3f0d58;
+}
+
+blockquote {
+    background-color: #d9d4e8;
+}
+
+blockquote.read {
+    border-left: 2px solid #3f0d58;
+    border-right: 2px solid #3f0d58;
+}
+
+
+@media print {
+    blockquote-read-wrap {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    blockquote.read {
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 21px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    a {
+        font-weight: bold;
+    }    
+}

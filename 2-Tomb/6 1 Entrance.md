@@ -1,6 +1,6 @@
 # Entrance
 
-![Temple Front](/Images/Temple_front.jpg)
+![Temple Front](../Images/Temple_front.png)
 
 There is a heavy humidity, and the foul smell of rot assaults your senses as you descend the darkened stairs. Strange sounds caused by the strong, cold wind greet you at the entrance, reverberating through the nearby stairwell. 40 feet down and you begin to feel engulfed by a permeating miasma of death.
 

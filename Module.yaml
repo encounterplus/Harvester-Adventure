@@ -1,2 +1,11 @@
 id: 18eb5141-982d-4f3a-b113-9dc6a8cc593f
-name: Harvester
+name: Harvester of Souls
+slug: harvester-of-souls
+description: An Eldritch revised edition adventure module written by Eric
+  Bergeron and edited by Dan Hill Cross. Designed for four 2nd Level Characters.
+category: adventure
+author: Eric Bergeron
+cover: Cover.jpg
+print-cover: Cover.jpg
+version: 7
+auto-increment-version: true

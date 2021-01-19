@@ -15,7 +15,7 @@ If the party heads to the small passageway in area
 
 ## Giant Bat
 
-![Giant Bat](/Images/Copy_of_Giant_Bat1a.png =300x)
+![Giant Bat](../Images/Copy_of_Giant_Bat1a.png =300x)
 
 
 Large beast, unaligned

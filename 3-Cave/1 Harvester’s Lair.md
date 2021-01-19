@@ -1,6 +1,6 @@
 **Harvester’s Lair** {.text-center}
 
-![Caves](/Images\HoS_HL_GM_Map1a.png)
+![Caves](../Images/HoS_HL_GM_Map1a.png)
 
 # 1: Cave Entrance
 
@@ -32,7 +32,7 @@ There is an old ratty journal on the floor here, and in it is what looks like a 
 
 ## Soul Seeker
 
-![Soul Seeker](/Images\Soul_Seeker1a.png)
+![Soul Seeker](../Images/Soul_Seeker1a.png)
 
 [Derived from Ghoul stats and with some abilities related to The Roper]
 

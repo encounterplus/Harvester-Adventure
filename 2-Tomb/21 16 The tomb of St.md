@@ -8,7 +8,7 @@ The steel doors open and give way to a large circular room, its ceiling about 20
 
 This is the sarcophagus of St. Frederick. In it can be found the bones of the paladin, along with his legendary holy sword “Demon Hunter”. The sarcophagus also contains a magical set of elven chain armor (+1 AC; SRD5, p. 220). To open the sarcophagus, a successful Strength check is required (vs Medium-15), unless the party come up with a better solution.
 
-![Sarcophagus](/Images\HoS_CoSF_Play_sarcophagus.png)
+![Sarcophagus](../Images/HoS_CoSF_Play_sarcophagus.png)
 
 The animated swords act as guardians. However, they do not move out of their circle. They attack viciously anything that crosses them. Treat it exactly as a permanent Blade Barrier (6th level evocation). A creature may attempt Dexterity saving throw to avoid some of the blades, or take 6d10 slashing damage. But even on a successful save, one suffers half as much damage.
 

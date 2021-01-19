@@ -1,8 +1,12 @@
-HARVESTER OF SOULS
+---
+name: Introduction
+slug: introduction
+order: 10
+---
 
-![cover](cover.jpg){.size-cover}
+# Harvester of Souls
 
-An Eldritch revised edition adventure module written by Eric Bergeron and edited by Dan Hill Cross. Designed for four 2nd Level Characters.
+An Eldritch revised edition adventure module written by Eric Bergeron and edited by Dan Hill Cross. Designed for four 2nd Level Characters. {.no-fancy}
 
 Ainerêve is the official setting of the Eldritch Role-Playing game, published by Crossroads Games and available through DrivethruRPG, though this version of the adventure is for use with the Fifth Edition of the world’s most popular fantasy role-playing game.
 

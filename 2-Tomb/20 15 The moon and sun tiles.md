@@ -4,7 +4,7 @@
 
 The floor features two slabs, one with a moon and one with a sun. Each tile also features a little key hole. The archway displays two elaborate steel doors, however neither of them have handles or visible locks.
 
-![Moon and Sun tiles](/Images\HoS_CoSF_Play_Sun_and_Moon.png)
+![Moon and Sun tiles](../Images/HoS_CoSF_Play_Sun_and_Moon.png)
 
 ## GM Info
 

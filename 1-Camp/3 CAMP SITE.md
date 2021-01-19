@@ -1,31 +1,30 @@
 # CAMP SITE
 
-Your adventure begins in an encampment, surrounded by three large tents spread out over a gently sloping grassy mound. Your group stands near the largest and most luxurious tent, taking in the sights and sounds. You’re grateful to be guests awaiting a quick bite of roasted pig after your recent travels. The delicious smells filling your nostrils nearly distract from thinking of your mission, which will be far less pleasant than the meal you’re about to enjoy. The guards and nobler men in fancy outfits all stand about with worried expressions, despite the festivities, and this refreshes your memory instantly.
+Your adventure begins in an encampment, surrounded by three large tents spread out over a gently sloping grassy mound. Your group stands near the largest and most luxurious tent, taking in the sights and sounds. You’re grateful to be guests awaiting a quick bite of roasted pig after your recent travels. The delicious smells filling your nostrils nearly distract from thinking of your mission, which will be far less pleasant than the meal you’re about to enjoy. The guards and nobler men in fancy outfits all stand about with worried expressions, despite the festivities, and this refreshes your memory instantly. {.no-fancy}
 
 You hadn’t been heading toward this place, but realized you had an opportunity for riches after coming across a written plea for help nailed to an old wooden post along the road. The parchment offered a reward of 2500 gold to hunt down and destroy a monster.
 
-![Players Map](/Images/HoS_Camp_first_person.png)
+![Players Map](../Images/HoS_Camp_first_person.png)
 
-**As adventurers, monster hunting is not typically the most lucrative of pursuits, but this was an unusually high reward. The post provided the location of an imminent meeting at a camp set up by Lord Marcel Laberge as a temporary outpost.**
-
-**Due to bad weather, you arrived by night, a bit late to for the expected convening of local soldiers. You were met with some suspicion by men at arms, but after some questioning, were led to Lord Marcel Laberge himself. He told you only mercenaries had answered their plea for help. “You must be the only ones who’d call yourselves heroes around here. But even heroes need rest, so I’ll provide more details in the morning,” Lord Laberge had said.**
-
-**You shared a tent with a bunch of mercenaries who didn’t sleep as well as you all did. None of you were known by name, despite recent escapades, but your confidence is likely much greater than the nervous looking men-for- hire around you.**
-
-**So now late morning has come, and you’re awaiting further direction.**
-
-**Some mercenaries stand guard at the perimeter, but most are milling about, discussing games and bragging about exploits over breakfast. That’s why you’re unable to make out what’s being said between Lord Laberge and one who appears to be a merchant. Their expressions are dire, but you can’t quite make out what they are saying due to the general din of conversation. Their voices are carried off in different directions by the cool morning breeze.** 
-
-_GM Info_
+> As adventurers, monster hunting is not typically the most lucrative of pursuits, but this was an unusually high reward. The post provided the location of an imminent meeting at a camp set up by Lord Marcel Laberge as a temporary outpost.
+> 
+> Due to bad weather, you arrived by night, a bit late to for the expected convening of local soldiers. You were met with some suspicion by men at arms, but after some questioning, were led to Lord Marcel Laberge himself. He told you only mercenaries had answered their plea for help. “You must be the only ones who’d call yourselves heroes around here. But even heroes need rest, so I’ll provide more details in the morning,” Lord Laberge had said.
+>
+> You shared a tent with a bunch of mercenaries who didn’t sleep as well as you all did. None of you were known by name, despite recent escapades, but your confidence is likely much greater than the nervous looking men-for- hire around you.
+>
+>So now late morning has come, and you’re awaiting further direction.
+>
+>Some mercenaries stand guard at the perimeter, but most are milling about, discussing games and bragging about exploits over breakfast. That’s why you’re unable to make out what’s being said between Lord Laberge and one who appears to be a merchant. Their expressions are dire, but you can’t quite make out what they are saying due to the general din of conversation. Their voices are carried off in different directions by the cool morning breeze.{.read}
 
 The mercenaries were more nervous at night because that is when the monster is most likely to strike, and so far, nobody has lived through an encounter.
 
- GM’s Note: Pause between paragraphs of speech. Players invariably interrupt canned speech to speak. Mix and match the spoken words to natural flow of conversation, or simply paraphrase. {.paper}
+> Pause between paragraphs of speech. Players invariably interrupt canned speech to speak. Mix and match the spoken words to natural flow of conversation, or simply paraphrase.
 
-- Read Aloud:
+**Read Aloud:**
 
 > The nobleman and merchant see you, and move their conversation toward your party. Turns out the merchant is affiliated with The Guardians’ Guild, a large, powerful guild of mercenaries and explorers. You catch on that the discussion is related to selling goods at a discount to adventurers. The lord greets you: 
- “Welcome, I hope you slept well and had a tasty breakfast. Although we met briefly yesterday, allow me to introduce myself more properly. I am Lord Mayor Marcel Laberge, a former knight. I could have retired, living the rest of my days wealthy, but I must oversee the townsfolk of Poisson. They are my people and they are in danger. {.read}
+>
+> “Welcome, I hope you slept well and had a tasty breakfast. Although we met briefly yesterday, allow me to introduce myself more properly. I am Lord Mayor Marcel Laberge, a former knight. I could have retired, living the rest of my days wealthy, but I must oversee the townsfolk of Poisson. They are my people and they are in danger. {.read}
  
  After a pause (or answering questions) he continues...
  
@@ -33,15 +32,18 @@ The mercenaries were more nervous at night because that is when the monster is m
 
  (print-page)
 
-**GM Info: The Order of Chaplains**: Chaplains use their magic in the course of their work to heal the faithful, exorcise demons, and strike down the unworthy, but also to manifest the divine favor of Sol in their services. The Order of Chaplains serves all Psarmorum. All ordained priests, from the Bishop of the city of the Temple Mount on down, are initiated members of the order. 
+> **The Order of Chaplains**
+>
+> Chaplains use their magic in the course of their work to heal the faithful, exorcise demons, and strike down the unworthy, but also to manifest the divine favor of Sol in their services. The Order of Chaplains serves all Psarmorum. All ordained priests, from the Bishop of the city of the Temple Mount on down, are initiated members of the order. 
+
 
  > “I offer reward for those who travel to the crypt and find the sword within, then hunt down and slay the harvester in its lair, with all due haste. Fortunately, local rangers tracked down the fiend and discovered its lair where it rests and regenerates during its daytime slumber. Only one ranger made it back alive to report its whereabouts, so we know it can be awakened during the day, even if in a weakened state. Two adventuring parties before you answered our plea. However, quite regretfully, not even one member has returned. Will you be the victorious party? Are you heroic enough to fetch the sword and slay the fiend? If so great riches and fresh arable land await you! If not, we pray to Sol that someone will have the guts to save us all!” {.read}
 
-_GM Info_
-
 The player characters will certainly ask questions or require more info during the knight’s soliloquy.
 
-**Questions about the fiend and its victims**: The lord mayor knows more than he’s willing to say, but won’t reveal why the fiend is free because he doesn’t know how that happened. But what he can say is that the “Harvester of Souls” name comes from the fact that when this fiend kills it steals the soul of its victim. Sometimes such victim comes back as a terrifying undead creature which tries to find a soul back. He also says that victims are often cut in two with just one hit. Over 60 years ago, when he was a young boy, he vividly remembers something about cultists summoning this fiend to find immortality and some cultist relatives might still exist today and may still be loyal to the “Harvester of Souls”.
+**Questions about the fiend and its victims**: 
+
+The lord mayor knows more than he’s willing to say, but won’t reveal why the fiend is free because he doesn’t know how that happened. But what he can say is that the “Harvester of Souls” name comes from the fact that when this fiend kills it steals the soul of its victim. Sometimes such victim comes back as a terrifying undead creature which tries to find a soul back. He also says that victims are often cut in two with just one hit. Over 60 years ago, when he was a young boy, he vividly remembers something about cultists summoning this fiend to find immortality and some cultist relatives might still exist today and may still be loyal to the “Harvester of Souls”.
 
 > Don’t be fooled by the nature of this quest, this is no ordinary monster hunt. This fiend cannot be killed by normal means. In fact, it cannot be killed at all. It can only be stopped, and only one weapon can do that. I am referring to the sword of St. Frederick, a weapon blessed by archangel Dumah. The blade was wielded by the late paladin Frederick Lachance who once defeated the Harvester.” “Unfortunately, to protect the relic from the old cult of the ‘Harvester of Souls’, those who summoned the fiend you must now stop, the The Order of Chaplains hid St. Frederick’s holy weapon well. Nobody has been successful in an attempt to retrieve the sword. The crypt where it is hidden is filled with traps. Its wards have stopped many would be thieves, treasure hunters, and most importantly, the cultists who’d seek to control the very being they pretend to worship. We are the founding members of Chevaliers de la Chauve-Souris, and so we know where the crypt lies. However, we have no idea how one is to find the sword. Being that the harvester has returned, I can only hope the sword is still there, for all our  sakes.” {.read}
 
@@ -55,36 +57,45 @@ The player characters will certainly ask questions or require more info during t
 
 > The rangers that first discovered the lair thought that the wide cave mouth lead to the hideout of a small party of bandits. However, the stench coming out of the cave was unbearable, a smell of death and decay. The rangers did not venture into it, but confirmed the active traces of the Harvester of Souls. {.read}
 
-More questions about the Harvester of Souls itself: 
+**More questions about the Harvester of Souls itself**: 
 
 > The description of the Harvester of Souls come from some cultists’ books that old knights recovered during an inquisition. It is said that the fiend was once a human. However how it became a fiend was kept as a secret (see GMs section below for more information) but it is now described as a human like figure with dark blueish-black skin, wrapped in tattered, shredded clothes. Some say it occasionally dresses like a simple farmer. It is also known that it wields a powerful weapon rumored to suck out the life force of its victims. {.read}
 
-To Neutralize the Harvester: The sword must be used to immobilize the Harvester. The local sage has knowledge of the whereabouts of a runic coffin where the Harvester can be placed. Once the monster is in the coffin the sword may be removed and the lid closed. This prevents its reanimation. That coffin can be transported to the priesthood where they’re most powerful can destroy it. If anybody other than the order of chaplains attempts to take the sword, it will anger the priesthood, probably triggering a visit from justicars. Returning the sword to the chaplains may be a side quest if others in town are intent on stealing or keeping it for themselves.
+**To Neutralize the Harvester**: The sword must be used to immobilize the Harvester. The local sage has knowledge of the whereabouts of a runic coffin where the Harvester can be placed. Once the monster is in the coffin the sword may be removed and the lid closed. This prevents its reanimation. That coffin can be transported to the priesthood where they’re most powerful can destroy it. If anybody other than the order of chaplains attempts to take the sword, it will anger the priesthood, probably triggering a visit from justicars. Returning the sword to the chaplains may be a side quest if others in town are intent on stealing or keeping it for themselves.
 
 (print-page)
 
 ## Lord Mayor Marcel Laberge
-![/Mayor](/Images/Mayor_Portrait1a.png =300x)
-Male Human Fighter 5
-Medium humanoid, no alignment
-Armor Class 16 (chain mail)
-Hit Points 44 (5d10+10)
-Speed 30 ft.
-STR 17 (+3), DEX 15 (+2), CON 15 (+2), INT 12 (+1), WIS 10 (+0), CHA 11 (+0)
-Saving Throws Str +6, Con +5
-Skills History +4, Survival +3
-Senses passive Perception 10
-Languages Common, Elvish
-Challenge 2 (450 XP)
-Actions
-Greatsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
-Hit: 10 (2d6+3) slashing damage.
-Longbow. Ranged Weapon Attack: +7 to hit, range 150 ft./600 ft., one target.
-Hit: 6 (1d8+2) piercing damage.
-Unarmed Strike. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
-Hit: 4 bludgeoning damage.
+![Mayor](../Images/Mayor_Portrait1a.png =300x)
 
-_GM Info_
+```Monster {.purple}
+name: Lord Mayor Marcel Laberge
+slug: lord-mayor-marcel-laberge
+size: Medium
+type: Humanoid (Human)
+alignment: No alignment
+ac: 16 (chain mail)
+hp: 44 (5d10 + 10)
+speed: 30 ft.
+str: 17
+dex: 15
+con: 15
+int: 12
+wis: 10
+cha: 11
+senses: passive Perception 10
+languages: Common, Elvish
+challenge: 2
+token: 
+image: 
+actions:
+  - name: Greatsword
+    description: " Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) slashing damage."  
+  - name: Longbow
+    description: "Ranged Weapon Attack: +7 to hit, range 150 ft./600 ft., one target. Hit: 6 (1d8+2) piercing damage." 
+  - name: Unarmed Strike
+    description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 4 bludgeoning damage." 
+```
 
 The camp features three core tents, one is for the mercenaries on watch, another for the travelling merchant (which also houses his personal mercenary contingent) and the last, fanciest one is for the Lord mayor and his personal bodyguards.
 
@@ -99,7 +110,7 @@ Stealing any content from any of the tents is possible, however it would prove q
 (print-page)
 
 ## Lord Mayor Bodyguards
-![Guard](/Images/Mayor_Guard_Portrait.png =300x)
+![Guard](../Images/Mayor_Guard_Portrait.png =300x)
 Armor Class 15 (chain shirt, shield)
 Hit Points 32 (5d8+10)
 Speed 30 ft.
@@ -119,7 +130,7 @@ Hit: 5 (1d6+2) bludgeoning damage.
 Treasure: 1 quiver with 1D12 +12 arrows, 1 belt pouch with 1D20 copper, 1D12 silver, and 1D12 gold.
 
 ### Mercenary
-![Mercenaries](/Images/Merchant_Guard_Portrait1a.png =300x)
+![Mercenaries](../Images/Merchant_Guard_Portrait1a.png =300x)
 Armor Class 14 (leather armor, shield)
 Hit Points 11 (2d8+2)
 Speed 30 ft.

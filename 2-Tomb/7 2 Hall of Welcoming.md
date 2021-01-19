@@ -4,7 +4,7 @@
 
 In the middle of this hall you see a large basin filled with murky water to which is affixed a placard engraved with writing. Walls are built from very large and heavy stone bricks. The stone bricks glisten with moisture and are covered with cobwebs. The hall splits into many corridors to the south and east.
 
-![Water Basin](/Images/Water_Basin.png =400x)
+![Water Basin](../Images/Water_Basin.png =400x)
 
 ## GM Info
 
@@ -28,7 +28,7 @@ Near the secret passage in the corner, part of the wall has collapsed and filled
 
 ## Bull Brick
 
-![Bullbrick](/Images/Bullbrick1a.png =400x)
+![Bullbrick](../Images/Bullbrick1a.png =400x)
 
 Small construct, unaligned
 

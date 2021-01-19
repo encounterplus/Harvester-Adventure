@@ -10,7 +10,7 @@ The harvester’s room if searched and looted, the party finds 49 gold in the be
 
 Harvester, greater incarnation
 
-![Hero](Images/Copy of Harvester1a)
+![Hero](../Images/Copy_of_Harvester1a.png)
 
 [derived from Vampire Spawn and Vampire]
 

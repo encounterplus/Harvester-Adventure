@@ -1,6 +1,6 @@
 **St. Frederick’s Crypt** {.text_center}
 
-![Map](/Images/HoS_CoSF_GM_Map1a.png)
+![Map](../Images/HoS_CoSF_GM_Map1a.png)
 
 GM Info
 

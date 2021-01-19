@@ -18,7 +18,7 @@ This area features many things.
 
 The gargoyles, although life-like, are just statues, but their mouths clearly display a hole that the party will notice instantly. The gargoyles’ function can be triggered by the numbered levers found in the far northern area. If the right combination is used then each gargoyle spits a key from the hole in its mouth. One of keys is made of silver, and the other is made of gold, but the keys are otherwise unremarkable. These keys are to be used for the moon and sun tiles found in area 15. The lever combination is 123 (the equivalent of the medieval idiot’s luggage code!), and is etched into the underside of the desk in area However with a wrong combination the lever’s handles all spew fire, which deals 3D6 damage.
 
-![Gargoyles](/Images\HoS_CoSF_Play_Gargoyle.png)
+![Gargoyles](../Images/HoS_CoSF_Play_Gargoyle.png)
 
 The altar stands under chandeliers found in the northeast section, and was once used for prayers to Sol. A dusty prayer book sits on the alter. The prayers once told the right combination for the area’s levers, however the paper of the tome pages have all rotten and the tome is now useless (except by some improvised restorative or psychogenic power). One adventurer etched the proper combination into the underside of the altar, which turned out to be 123, a number with no religious significance whatsoever, which was likely by design. The chandeliers are made of silver and each are worth approximately 75 gold each.
 

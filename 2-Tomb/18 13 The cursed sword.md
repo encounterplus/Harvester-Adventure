@@ -4,7 +4,7 @@
 
 As you get near what appears to be a small room, the area is filled with moss, strange large mushrooms, and other humid vegetation. In the northeast corner of the room there is a pool which has formed, and in it you notice a human skeleton, a gleaming silver sword encrusted with gemstones impaled into its torso.
 
-![Adventurer on floor](/Images\Skeleton_and_mushrooms.png)
+![Adventurer on floor](../Images/Skeleton_and_mushrooms.png)
 
 ## GM Info
 

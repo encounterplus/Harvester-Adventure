@@ -15,7 +15,7 @@ If the Skull Crawler isn’t hunting for vermin, the PCs will notice the creatur
 
 ## Skull Crawlers
 
-![Skull Crawler](/Images\Copy_of_Bone_Crawler1a.png)
+![Skull Crawler](../Images/Copy_of_Bone_Crawler1a.png)
 
 Large beast, unaligned
 

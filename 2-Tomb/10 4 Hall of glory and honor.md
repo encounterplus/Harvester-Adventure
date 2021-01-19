@@ -4,7 +4,7 @@
 
 The corridor features a huge stone tapestry on the west wall. It depicts scene wherein St. Frederick leads an army of knights in a clash against an army of barbarians. The area also features two steel doors without handles, located in the east wall, and a small 5 feet wide exit found to the southeast.
 
-![Tapestry](/Images\Tapestry.png =300x)
+![Tapestry](../Images/Tapestry.png =300x)
 
 ## GM Info
 
