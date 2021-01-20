@@ -51,4 +51,10 @@ ul.toc li.category a {
         margin-top: 0px;
         margin-bottom: 10px;
     }  
+
+    .print-center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }

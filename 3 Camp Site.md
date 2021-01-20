@@ -1,13 +1,14 @@
 ---
-name: Camp Site
-slug: camp-site
+name: Campsite
+slug: campsite
 order: 30
 module-pagebreaks: h1, h2
+cover: CampMap.jpg
 ---
 
-![Camp Site](HoSCampFirstPerson.jpg){.size-full}
+![Campsite](HoSCampFirstPerson.jpg){.size-full}
 
-# Camp Site
+# Campsite
 
 **Read aloud:**<!--{p:.no-fancy}-->
 
@@ -330,15 +331,20 @@ rarity: Rare
 source: Harvester of Souls
 description: This balm, usually contained within a sturdy pot of ceramic, holds 4 doses of thick, creamy, white paste, made mostly from Sambucus Nigra. It’s mixed with a heavy dose of troll and ogre fat, and said to treat fever quickly. It only requires a check of Wisdom versus DC 10 for the balm to take effect, which does so under about 30 mins. The creature that receives it regains 2d10 + 4 hit points, ceases to be poisoned, and is cured of any disease.
 ```
+{.purple}
 
 ```Item
 name: Potentia Leaf
 slug: potentia-leaf
 type: Wondrous Item
 rarity: Uncommon
+image: PotentiaLeaf.png
 source: Harvester of Souls
 description: This is a three-headed, long green and red leaf. It’s the size of a palm, found from a flower growing exclusively in the Ghost Marsh. The correct application of this leaf requires a healing check against a DC 15 Wisdom (Medicine) check, because the leaf must be chewed into a thick paste, but never swallowed, else one will quickly find the leaf highly toxic. The paste must be instantly applied on open wounds or burns, and if done right the leafy green putty heals 2d4+2 HP. The healing of this miraculous plant takes effect immediately, almost instantly sealing a wound, and stopping any bleeding or oozing. However due to its toxicity, failing the healing check means the balm may harm the patient and deal 1D4 HP of damage! Luckily, an easy (vs. 10) Constitution check can prevent the HP loss (though it still feels like a burn).
 ```
+{.purple}
+
+![Potentia Leaf](PotentiaLeaf.png =250x){.print-center}
 
 (print-page)
 
@@ -408,7 +414,7 @@ int: 11
 wis: 10
 cha: 12
 resistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-savingThrows: Dex +6, Wis +3
+saves: Dex +6, Wis +3
 senses: darkvision 60 ft., passive Perception 13
 languages: the languages it knew in life
 challenge: 5

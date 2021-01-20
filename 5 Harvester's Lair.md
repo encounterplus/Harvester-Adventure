@@ -3,9 +3,8 @@ name: Harvester’s Lair
 slug: harvesters-lair
 order: 50
 module-pagebreaks: h1, h2
+cover: HarvestersLairMap.jpg
 ---
-
-![Caves](Images/HoS_HL_GM_Map1a.png){.size-cover}
 
 # Harvester’s Lair
 
@@ -37,41 +36,46 @@ There is an old ratty journal on the floor here, and in it is what looks like a 
 
 “You may have heard the tale of the Harvester, that occult monster feeding on the souls of our townsfolk. That is terrible enough, but the consequence of a harvested corpse is also the stuff of nightmares. Necromancers will tell you that once a harvester has killed and fed on a soul, within twenty-four hours the remains of such victim’s body---often cut in half with the harvester’s scythe---rise to ‘instinctively’ find its soul. The living attracts the soul seeker, who endlessly mistakes any living soul as its own. It attacks with unnatural claws suddenly sprouting from its fingertips, attempting to rip a soul from the victim’s body, not stopping until destroyed (preferably by total incineration). Still, no one is quite sure of the exact appearance of a Soul Seeker. Maybe it’s because so few live to tell about their encounter with the mindless progeny of the Harvester. Survivors capable of rational speech can’t bear to describe this soul-drained aberration of a corpse”.
 
-### Soul Seeker
+(print-page)
 
-![Soul Seeker](Images/Soul_Seeker1a.png)
+![Soul Seeker](SoulSeeker.png =630x){.print-bottom-left}
 
-[Derived from Ghoul stats and with some abilities related to The Roper]
+(print-column)
 
-Medium undead, chaotic evil
+```Monster {.purple}
+name: Soul Seeker
+slug: soul-seeker
+size: Medium
+type: Undead
+alignment: Chaotic Evil
+ac: 12
+hp: 22 (5d8)
+speed: 30 ft.
+str: 13
+dex: 15
+con: 10
+int: 7
+wis: 10
+cha: 6
+damageImmunities: poison
+conditionImmunities: charmed, exhaustion, poisoned
+senses: darkvision 60 ft., passive Perception 10
+languages: Common
+challenge: 1
+token: 
+image: 
+actions:
+  - name: Bite
+    description: "Melee Weapon Attack: +2 to hit, reach 5 ft. Hit: 2d6+2 damage to one creature."  
+  - name: Claw
+    description: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4+2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."  
+  - name: Tendril
+    description: "Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 7 (2d4+2) bludgeoning damage."  
+  - name: Reel
+    description: "The Soul Seeker pulls each creature grappled by it up to 10 feet straight toward it.The Soul Seeker’s undead body can stretch into myriad terrifying, twisted forms, flailing its body about in unnatural ways, stretching sinew and flesh to the limit, like elastic bands forming a strange, bloody whip." 
+```
 
-Armor Class 12
-
-Hit Points 22 (5d8)
-
-Speed 30 ft.
-
-STR 13 (+1), DEX 15 (+2), CON 10 (+0), INT 7 (-2), WIS 10 (+0), CHA 6 (-2)
-
-Damage Immunities poison
-
-Condition Immunities charmed, exhaustion, poisoned
-
-Senses darkvision 60 ft., passive Perception 10
-
-Languages Common
-
-Challenge 1 (200 XP)
-
-Actions
-
-Bite : +2 to hit, reach 5 ft. 2d6+2 damage to one creature.
-
-Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4+2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-Tendril: Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 7 (2d4+2) bludgeoning damage.
-
-Reel: The Soul Seeker pulls each creature grappled by it up to 10 feet straight toward it.The Soul Seeker’s undead body can stretch into myriad terrifying, twisted forms, flailing its body about in unnatural ways, stretching sinew and flesh to the limit, like elastic bands forming a strange, bloody whip.
+(print-page)
 
 ## 3: Water Maze
 
@@ -83,42 +87,43 @@ You approach an area filled with water, the tight passageways forming a natural 
 
 The water is only 1 foot deep, but the splashes can warn the Harvester of Souls about the presence of the party. However there is 50% chance that the harvester does not react to mere movement, believing the noise is from the soul seekers found in area 2.
 
+```Monster {.purple}
+name: Giant Bat
+slug: giant-bat
+size: Large
+type: Beast
+alignment: Unaligned
+ac: 13
+hp: 22 (4d10)
+speed: 10 ft., fly 60 ft.
+str: 15
+dex: 16
+con: 11
+int: 2
+wis: 12
+cha: 6
+senses: blindsight 60 ft., passive Perception 11
+challenge: 1/4
+token: 
+image: 
+traits:
+  - name: Echolocation
+    description: "The bat can’t use its blindsight while deafened."
+  - name: Keen Hearing
+    description: "The bat has advantage on Wisdom (Perception) checks that rely on hearing."
+actions:
+  - name: Bite
+    description: "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6+2) piercing damage." 
+```
+System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc. {.footnote}
+
 The dead end in the east wall used to serve as a latrine for the former bandits living here. It is not noteworthy aside from the foul odor.
 
 If the party heads to the small passageway in area 
 4, there is 25% chance of encountering giant bats. The bats hang from the high ceiling of the passageway, 20 to 30 feet high. If noise occurs, they wake up and attack. As a warning to the party, large amounts of guano can be found on this floor.
 
-### Giant Bat
+![Giant Bat](GiantBat.png =400x){.print-center}
 
-![Giant Bat](Images/Copy_of_Giant_Bat1a.png =300x)
-
-Large beast, unaligned
-
-Armor Class 13
-
-Hit Points 22 (4d10)
-
-Speed 10 ft., fly 60 ft.
-
-STR 15 (+2), DEX 16 (+3), CON 11 (+0), INT 2 (-4), WIS 12 (+1), CHA 6 (-2)
-
-Senses blindsight 60 ft., passive Perception 11
-
-Languages ---
-
-Challenge 1/4 (50 XP)
-
-Echolocation. The bat can’t use its blindsight while deafened.
-
-Keen Hearing. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
-
-Actions
-
-Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
-
-Hit: 5 (1d6+2) piercing damage.
-
-System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.
 
 ## 4: The room of the harvester and the conclusion
 
@@ -126,7 +131,13 @@ System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.
 
 The path ends in a room with no exit other than the party’s egress. Two bedrolls made of brown fur decorate the floor and lie next to the west wall. Between them lies a large sturdy chest. Near the entrance beside them, a large sack lies there too. Next to the opposing east wall is another similar bedroll, and next to it lays a belt pouch.
 
+(print-oage)
+
 At the very end of the room, on an old battered wooden chair, sits a humanoid figure, it’s skin is bluish black. It’s the Harvester of Souls, wearing a long leather coat and a leather hat, it skin wrapped in rags. In his right hand he holds a huge scythe. The weapon features a demonic skull atop the very long and large blade, a green aura emanating from its eye sockets. The moment you enter, the harvester of souls stands up, his green smoky eyes open wide with malice. It steps menacingly across the pool of blood before its feet and raises its scythe!
+
+(print-page)
+
+![Harvester Encounter](HarvesterEncounter.jpg){.size-cover}
 
 ### GM Info
 
@@ -138,41 +149,46 @@ Of course, a banquet is thrown in their name and the locals henceforth greet the
 
 The harvester’s room if searched and looted, the party finds 49 gold in the belt pouch and the chest contains silverware worth approximately 243 gold.
 
-Harvester, greater incarnation
+(print-page)
 
-![Harvester](Images/Harvester1a.png)
+```Monster {.purple .two-column}
+name: Harvester, Greater Incarnation
+slug: harvester-greater-incarnation
+size: Medium
+type: Undead
+alignment: Neutral Evil
+ac: 15 (natural armor)
+hp: 82 (11d8+33)
+speed: 30 ft.
+str: 16
+dex: 16
+con: 16
+int: 11
+wis: 10
+cha: 12
+saves: Dex +6, Wis +3
+skills: Perception +3, Stealth +6
+resistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+senses: darkvision 60 ft., passive Perception 13
+languages: the languages it knew in life
+challenge: 5
+token: 
+image: 
+traits:
+  - name: Regeneration
+    description: "The Harvester regains 10 hit points at the start of its turn (sunlight or running water has no effect on this). If the Harvester takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn."
+  - name: Misty Escape
+    description: "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist instead of falling Unconscious, (regardless of sunlight or running water). If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its humanoid form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its humanoid form at full hitpoints! If it rests anywhere outside of its lair, then is then Paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point."
+  - name: Weaknesses
+    description: " The Harvester has the following flaws:
+    
+        Sword (specific) to the Heart. The Harvester is destroyed if a specific legendary weapon is driven into its heart while it is incapacitated in its resting place."
+actions:
+  - name: Bite
+    description: "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6+2) piercing damage." 
+```
 
-[derived from Vampire Spawn and Vampire]
-
-Medium undead, neutral evil
-
-Armor Class 15 (natural armor)
-
-Hit Points 82 (11d8+33)
-
-Speed 30 ft.
-
-STR 16 (+3), DEX 16 (+3), CON 16 (+3), INT 11 (+0), WIS 10 (+0), CHA 12 (+1)
-
-Saving Throws Dex +6, Wis +3
-
-Skills Perception +3, Stealth +6
-
-Damage Resistances necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-Senses darkvision 60 ft., passive Perception 13
-
-Languages the languages it knew in life
-
-Challenge 5 (1,800 XP)
-
-Regeneration. The Harvester regains 10 hit points at the start of its turn (sunlight or running water has no effect on this). If the Harvester takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn.
-
-Misty Escape: When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist instead of falling Unconscious, (regardless of sunlight or running water). If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its humanoid form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its humanoid form at full hitpoints! If it rests anywhere outside of its lair, then is then Paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
-
-Weaknesses. The Harvester has the following flaws:
-
-Sword (specific) to the Heart. The Harvester is destroyed if a specific legendary weapon is driven into its heart while it is incapacitated in its resting place.
+![Harvester](Harvester.png =500x){.print-bottom-right}
 
 System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc
 
