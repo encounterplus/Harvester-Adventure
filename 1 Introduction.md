@@ -4,10 +4,42 @@ slug: introduction
 order: 10
 ---
 
-# Harvester of Souls
+# Harvester of Souls {.text-center}
 
 An Eldritch revised edition adventure module written by Eric Bergeron and edited by Dan Hill Cross. Designed for four 2nd Level Characters. {.no-fancy}
 
 Ainerêve is the official setting of the Eldritch Role-Playing game, published by Crossroads Games and available through DrivethruRPG, though this version of the adventure is for use with the Fifth Edition of the world’s most popular fantasy role-playing game.
 
 Note that SRD5 stands for System Reference Document, the official Open Gaming License document made, Copyright 2016, Wizards of the Coast, Inc. Full license is provided at end of this product.
+
+(print-column)
+
+## Table of Contents {.print-only}
+
+- [Background](background) {.category}
+- [Camp Site](camp-site) {.category}
+- [The Suicide Siege!](camp-site-the-suicide-ambush)
+- [Saint Frederick's Crypt](saint-fredericks-crypt) {.category}
+- [Entrance](saint-fredericks-crypt-1-entrance)
+- [Hall of Welcoming](saint-fredericks-crypt-2-hall-of-welcoming)
+- [Poisonous Room](saint-fredericks-crypt-3-poisonous-trap-room)
+- [Hall of Glory and Honor](saint-fredericks-crypt-4-hall-of-glory-and-honor)
+- [Twin Stairs Hall](saint-fredericks-crypt-5-twin-stairs-hall)
+- [Belt Pouch Corridor](saint-fredericks-crypt-6-belt-pouch-corridor)
+- [Spider Tunnel](saint-fredericks-crypt-7-spider-tunnel)
+- [The Sun Virgin](saint-fredericks-crypt-8-the-sun-virgin)
+- [Skull Crawler's Lair](saint-fredericks-crypt-9-skull-crawlers-lair)
+- [The Secret Hallways](saint-fredericks-crypt-10-the-secret-hallways)
+- [Little Note Corridor](saint-fredericks-crypt-11-little-note-corridor)
+- [The Moon Virgin](saint-fredericks-crypt-12-the-moon-virgin)
+- [The Cursed Sword](saint-fredericks-crypt-13-the-cursed-sword)
+- [The Halls of the Guardians](saint-fredericks-crypt-14-the-halls-of-the-guardians)
+- [The Moon and Sun Tiles](saint-fredericks-crypt-15-the-moon-and-sun-tiles)
+- [The Tomb of St. Frederick](saint-fredericks-crypt-16-the-tomb-of-st-frederick)
+- [Harvester's Lair](harvesters-lair) {.category}
+- [Cave Entrance](harvesters-lair-1-cave-entrance)
+- [Old Bandit Quarters](harvesters-lair-2-old-bandit-quarters)
+- [Water Maze](harvesters-lair-3-water-maze)
+- [The Room of the Harvester](harvesters-lair-4-the-room-of-the-harvester-and-the-conclusion)
+- [License](license)
+{.toc .print-only}

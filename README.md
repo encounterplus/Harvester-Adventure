@@ -1,3 +1,9 @@
+---
+name: ReadMe
+slug: readme
+include-in: compendium
+---
+
 # Harvester-Adventure
 
 The Harvester of Souls Adventure

@@ -14,7 +14,7 @@ At first the relatives of the many victims imagined the attacks came from goblin
 
 That’s where the adventuring comes in...
 
-![map](Images/Valebrume_Map1.png)
+![map](ValebrumeMap.jpg)
 
 
 

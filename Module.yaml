@@ -6,6 +6,6 @@ description: An Eldritch revised edition adventure module written by Eric
 category: adventure
 author: Eric Bergeron
 cover: Cover.jpg
-print-cover: Cover.jpg
-version: 7
+print-cover: PrintCover.jpg
+version: 86
 auto-increment-version: true

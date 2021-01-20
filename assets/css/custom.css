@@ -16,6 +16,26 @@ blockquote.read {
     border-right: 2px solid #3f0d58;
 }
 
+ul.toc li.part {
+    border-bottom: 1px solid #3f0d58;
+    color: #3f0d58;
+}
+
+ul.toc li.part a {
+    color: #3f0d58;
+}
+
+ul.toc li.category {
+    color: #3f0d58;
+}
+
+ul.toc li.category a {
+    color: #3f0d58;
+}
+
+.footnote {
+    font-size: 10px;
+}
 
 @media print {
     blockquote-read-wrap {
@@ -26,29 +46,5 @@ blockquote.read {
     blockquote.read {
         margin-top: 0px;
         margin-bottom: 10px;
-    }
-
-    h1 {
-        font-size: 28px;
-    }
-
-    h2 {
-        font-size: 21px;
-    }
-
-    h3 {
-        font-size: 18px;
-    }
-
-    h4 {
-        font-size: 16px;
-    }
-
-    p {
-        font-size: 12px;
-    }
-
-    a {
-        font-weight: bold;
-    }    
+    }  
 }
