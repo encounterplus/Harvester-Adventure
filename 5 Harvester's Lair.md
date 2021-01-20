@@ -10,21 +10,17 @@ cover: HarvestersLairMap.jpg
 
 ## 1: Cave Entrance
 
-### Player’s Info
+**Read:**
 
-You approach a cave as indicated by your map. The wide entrance set in a rocky overgrown hillside looks deep and dark without any sign of life. Before the entrance, on each side of a lone boulder, dance two trees by the wind’s music; that’s the only sound you can hear. Indeed, the area is eerily quiet.
-
-### GM Info
+> You approach a cave as indicated by your map. The wide entrance set in a rocky overgrown hillside looks deep and dark without any sign of life. Before the entrance, on each side of a lone boulder, dance two trees by the wind’s music; that’s the only sound you can hear. Indeed, the area is eerily quiet. {.read}
 
 As the party gets near the entrance they can smell rot and will notice black flies flying and buzzing all over the place.
 
 ## 2: Old bandit quarters
 
-### Player’s Info
+**Read:**
 
-The wide cave here is big, between 50 and 80 feet in certain sections, featuring many exits and ceilings as high as 20 feet. The floor is speckled with fresh blood, attracting swarms of flies. The place looks like some people lived here. There is crude furniture around, such as a round wooden table, some wooden stools, and some wooden shelves hanging on uneven walls. On one of the shelves sits a small chest and some fur. Many ceramic or steel bowls, pots and utensils sit on makeshift wooden tables. Some crates are found deeper north along with a bag and a chest. On the far east side, there seems to be a camp fire still burning. To the west side, near two exits can be found a bedroll made of brown fur.
-
-### GM Info
+> The wide cave here is big, between 50 and 80 feet in certain sections, featuring many exits and ceilings as high as 20 feet. The floor is speckled with fresh blood, attracting swarms of flies. The place looks like some people lived here. There is crude furniture around, such as a round wooden table, some wooden stools, and some wooden shelves hanging on uneven walls. On one of the shelves sits a small chest and some fur. Many ceramic or steel bowls, pots and utensils sit on makeshift wooden tables. Some crates are found deeper north along with a bag and a chest. On the far east side, there seems to be a camp fire still burning. To the west side, near two exits can be found a bedroll made of brown fur. {.read}
 
 The gore covering the walls emits an unbearable stench of death. Two Soul Seeker Monsters reside here, and if the party isn’t quiet, they immediately charge at them, flailing and contorting their bodies in a macabre way. The soul seekers only wear rags or nothing at all.
 
@@ -79,11 +75,9 @@ actions:
 
 ## 3: Water Maze
 
-### Player’s Info
+**Read:**
 
-You approach an area filled with water, the tight passageways forming a natural labyrinth. The water dances and reflects everywhere on the walls. Nothing can be heard other than the steady drips of water.
-
-### GM Info
+> You approach an area filled with water, the tight passageways forming a natural labyrinth. The water dances and reflects everywhere on the walls. Nothing can be heard other than the steady drips of water. {.read}
 
 The water is only 1 foot deep, but the splashes can warn the Harvester of Souls about the presence of the party. However there is 50% chance that the harvester does not react to mere movement, believing the noise is from the soul seekers found in area 2.
 
@@ -127,19 +121,15 @@ If the party heads to the small passageway in area
 
 ## 4: The room of the harvester and the conclusion
 
-### Player’s Info
+**Read:**
 
-The path ends in a room with no exit other than the party’s egress. Two bedrolls made of brown fur decorate the floor and lie next to the west wall. Between them lies a large sturdy chest. Near the entrance beside them, a large sack lies there too. Next to the opposing east wall is another similar bedroll, and next to it lays a belt pouch.
-
-(print-oage)
-
-At the very end of the room, on an old battered wooden chair, sits a humanoid figure, it’s skin is bluish black. It’s the Harvester of Souls, wearing a long leather coat and a leather hat, it skin wrapped in rags. In his right hand he holds a huge scythe. The weapon features a demonic skull atop the very long and large blade, a green aura emanating from its eye sockets. The moment you enter, the harvester of souls stands up, his green smoky eyes open wide with malice. It steps menacingly across the pool of blood before its feet and raises its scythe!
+> The path ends in a room with no exit other than the party’s egress. Two bedrolls made of brown fur decorate the floor and lie next to the west wall. Between them lies a large sturdy chest. Near the entrance beside them, a large sack lies there too. Next to the opposing east wall is another similar bedroll, and next to it lays a belt pouch.
+>
+> At the very end of the room, on an old battered wooden chair, sits a humanoid figure, it’s skin is bluish black. It’s the Harvester of Souls, wearing a long leather coat and a leather hat, it skin wrapped in rags. In his right hand he holds a huge scythe. The weapon features a demonic skull atop the very long and large blade, a green aura emanating from its eye sockets. The moment you enter, the harvester of souls stands up, his green smoky eyes open wide with malice. It steps menacingly across the pool of blood before its feet and raises its scythe! {.read}
 
 (print-page)
 
 ![Harvester Encounter](HarvesterEncounter.jpg){.size-cover}
-
-### GM Info
 
 This area is designed as the final showdown with the harvester, but without the Demon Hunter sword, this fiend cannot be stopped. If one of the heroes sticks the monster with the Demon Hunter sword it immobilizes the Harvester. The party can actually transport the harvester that way and it will be unable to attack and its sentience is suppressed. The scythe of the harvester is an unhallowed artifact of Lilith, is a cursed weapon, and cannot be removed from the hand of its master. Trying to do so can render a PC to ashes and the scythe goes back to its master instantly (immediate nonphysical 3D6 Necrotic damage. If ever a full party gets defeated and they drop the sword, the Harvester cannot touch that sword. It will flee to seek another lair and hope no one finds that sword.
 

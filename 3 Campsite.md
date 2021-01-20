@@ -31,13 +31,9 @@ cover: CampMap.jpg
 
 ## Introduction
 
-### GM Info
-
 The mercenaries were more nervous at night because that is when the monster is most likely to strike, and so far, nobody has lived through an encounter.
 
 > Pause between paragraphs of speech. Players invariably interrupt canned speech to speak. Mix and match the spoken words to natural flow of conversation, or simply paraphrase.
-
-### Player’s Info
 
 **Read Aloud:**
 
@@ -59,8 +55,6 @@ The mercenaries were more nervous at night because that is when the monster is m
 (print-page)
 
 ## Questions
-
-### GM Info
 
 The player characters will certainly ask questions or require more info during the knight’s soliloquy.
 
@@ -94,15 +88,13 @@ The lord mayor knows more than he’s willing to say, but won’t reveal why the
 
 ## Camp Layout
 
-### GM Info
-
 The camp features three core tents, one is for the mercenaries on watch, another for the travelling merchant (which also houses his personal mercenary contingent) and the last, fanciest one is for the Lord mayor and his personal bodyguards.
 
-**Mercenary Tent**: This tent features 8 bedrolls, each next a medium size wooden chest containing most of the gear the mercenaries need. The chests are nearly full when the mercenaries are resting. There is 50% chance for any chest to contain 1D4 rolls of bandages with 1D4 wine bottles. The tent also features one medium sized crate which contains 5D20 dry rations and 1D6 + 4 water skins. Some of the bedrolls and chests are always empty, set up for any PC who comes to the camp and needs a place to store their possessions.
+**Mercenary Tent**: This tent features 8 bedrolls, each next a medium size wooden chest containing most of the gear the mercenaries need. The chests are nearly full when the mercenaries are resting. There is [50%](/roll/1d100){.screen-only}**50%**{.print-only} chance for any chest to contain [1D4](/roll/1d4){.screen-only}**1D4**{.print-only} rolls of bandages with [1D4](/roll/1d4){.screen-only}**1D4**{.print-only} wine bottles. The tent also features one medium sized crate which contains [5D20](/roll/5d20){.screen-only}**5D20**{.print-only} dry rations and [1D6 + 4](/roll/1d6+4){.screen-only}**1D6 + 4**{.print-only} water skins. Some of the bedrolls and chests are always empty, set up for any PC who comes to the camp and needs a place to store their possessions.
 
-**Merchant Tent**: This tent features six bedrolls, each with a small wooden chest next to it. The merchant’s mercenaries keep their gear in these chests when resting. During rest, the chests should contain the exact same sort of gear the soldier tent features (see NPC stats for specifics). The merchant’s bedroll is filled with valuable fur from the north, therefore his bedroll has a value of 1D10 + 50 gold. The tent also contains various crates containing his entire merchandise list (Refer to the merchant store for more details!) and a locked chest in which he keeps the steel key around his neck. The chest contains 1000 + 1D1000 gold, a journal which keeps tracks of the merchandise, and another journal which shows the safest roads to take for travel. There’s also a very pretty silver tiara with a Jade gemstone encrusted in the middle. The tiara is worth 1D4 X 100 gold. The tiara has no special meaning; however, the GM can certainly create a quick background story as to why the merchant is holding onto this valuable piece of jewelry.
+**Merchant Tent**: This tent features six bedrolls, each with a small wooden chest next to it. The merchant’s mercenaries keep their gear in these chests when resting. During rest, the chests should contain the exact same sort of gear the soldier tent features (see NPC stats for specifics). The merchant’s bedroll is filled with valuable fur from the north, therefore his bedroll has a value of [1D10 + 50](/roll/1d10+50){.screen-only}**1D10 + 50**{.print-only} gold. The tent also contains various crates containing his entire merchandise list (Refer to the merchant store for more details!) and a locked chest in which he keeps the steel key around his neck. The chest contains [1000 + 1D1000](/roll/1d1000+1000){.screen-only}**1000 + 1D1000**{.print-only} gold, a journal which keeps tracks of the merchandise, and another journal which shows the safest roads to take for travel. There’s also a very pretty silver tiara with a Jade gemstone encrusted in the middle. The tiara is worth [1D4 X 100](/roll/1d4x100){.screen-only}**1D4 X 100**{.print-only} gold. The tiara has no special meaning; however, the GM can certainly create a quick background story as to why the merchant is holding onto this valuable piece of jewelry.
 
-**Mayor Tent**: This tent contains 6 bedrolls for the Lord mayor’s bodyguards, and one luxurious cot for the lord mayor lined with fine northern fur. Just like the other tents, the lord mayor’s bodyguards each own chests which they store gear during rest. The gear is the same as the mercenaries’ other than the crossbows, which are replaced with longbows, and the bolts which are replaced by arrows. The lord mayor’s cot and fur are worth 3D20 + 50 gold. The Lord mayor has a small, steel chest which is locked by a key he keeps in his belt pouch. The chest only contains a bottle of fine southern wine, and a letter from his daughter which reads... “May you be blessed be. Come back home safely. Signed... Rosalie.” The Lord mayor keeps all his true valuables on his person.
+**Mayor Tent**: This tent contains 6 bedrolls for the Lord mayor’s bodyguards, and one luxurious cot for the lord mayor lined with fine northern fur. Just like the other tents, the lord mayor’s bodyguards each own chests which they store gear during rest. The gear is the same as the mercenaries’ other than the crossbows, which are replaced with longbows, and the bolts which are replaced by arrows. The lord mayor’s cot and fur are worth [3D20 + 50](/roll/3d20+50){.screen-only}**3D20 + 50**{.print-only}  gold. The Lord mayor has a small, steel chest which is locked by a key he keeps in his belt pouch. The chest only contains a bottle of fine southern wine, and a letter from his daughter which reads... “May you be blessed be. Come back home safely. Signed... Rosalie.” The Lord mayor keeps all his true valuables on his person.
 
 Stealing any content from any of the tents is possible, however it would prove quite difficult. The mercenaries and watchmen keep a good eye on any outsiders.
 
@@ -258,9 +250,11 @@ actions:
 
 (print-page)
 
-### Merchant
+## Merchant
 
 ![Mercenary](JeanLucPage.jpg =350x){.screen-only}
+
+The merchant was summoned by the lord mayor to re-supply a party even though the mayor himself provides some free supply (gear worth 25 gold that the party may choose from the merchant’s list), the merchant is there for extra but as the party closes in they can hear the merchant arguing about not giving away too much to the party or else he won’t make a dime and he will have to leave immediately.
 
 (print-column)
 
@@ -298,11 +292,9 @@ actions:
 
 (print-page)
 
-## Merchant
+### Merchant Supplies
 
-The merchant was summoned by the lord mayor to re-supply a party even though the mayor himself provides some free supply (gear worth 25 gold that the party may choose from the merchant’s list), the merchant is there for extra but as the party closes in they can hear the merchant arguing about not giving away too much to the party or else he won’t make a dime and he will have to leave immediately.
-
-**Merchant Supplies**: Jean-Luc can provide the party some supplies from this list. The GM may assume he can sell standard weaponry as well.
+Jean-Luc can provide the party some supplies from this list. The GM may assume he can sell standard weaponry as well.
 
 |           Supplies           |  Cost  |
 |:----------------------------:|:------:|
@@ -323,7 +315,7 @@ The merchant was summoned by the lord mayor to re-supply a party even though the
 
 (print-column)
 
-```Item
+```Item {.purple}
 name: Balm of St. Paul
 slug: balm-of-st-paul
 type: Wondrous Item
@@ -331,9 +323,8 @@ rarity: Rare
 source: Harvester of Souls
 description: This balm, usually contained within a sturdy pot of ceramic, holds 4 doses of thick, creamy, white paste, made mostly from Sambucus Nigra. It’s mixed with a heavy dose of troll and ogre fat, and said to treat fever quickly. It only requires a check of Wisdom versus DC 10 for the balm to take effect, which does so under about 30 mins. The creature that receives it regains 2d10 + 4 hit points, ceases to be poisoned, and is cured of any disease.
 ```
-{.purple}
 
-```Item
+```Item {.purple}
 name: Potentia Leaf
 slug: potentia-leaf
 type: Wondrous Item
@@ -342,7 +333,6 @@ image: PotentiaLeaf.png
 source: Harvester of Souls
 description: This is a three-headed, long green and red leaf. It’s the size of a palm, found from a flower growing exclusively in the Ghost Marsh. The correct application of this leaf requires a healing check against a DC 15 Wisdom (Medicine) check, because the leaf must be chewed into a thick paste, but never swallowed, else one will quickly find the leaf highly toxic. The paste must be instantly applied on open wounds or burns, and if done right the leafy green putty heals 2d4+2 HP. The healing of this miraculous plant takes effect immediately, almost instantly sealing a wound, and stopping any bleeding or oozing. However due to its toxicity, failing the healing check means the balm may harm the patient and deal 1D4 HP of damage! Luckily, an easy (vs. 10) Constitution check can prevent the HP loss (though it still feels like a burn).
 ```
-{.purple}
 
 ![Potentia Leaf](PotentiaLeaf.png =250x){.print-center}
 
@@ -359,9 +349,14 @@ And here is the Harvester, pure hate and drive, unthinking, uncaring about these
 
 If the PCs get too close to the Harvester before he’s ready to entirely reveal itself, he will “kill” himself, throwing himself down upon his own scythe, exploding into a cloud of dry inkiness and then dissolving into wispy smoke shredded by the breeze (along with the scythe itself). This method of departure should be unnerving to say the least, and is precisely the sort of tactic that inspired some of the cultists in the first place...
 
-(print-page)
+|||
+|---|---|
+|[**Encounter: Suicide Abmush!**](suicide-ambush-encounter){.screen-only}**Encounter: Suicide Abmush!**{.print-only}||
+|[6 Cultists](/monster/cultist){.screen-only}**6 Cultists**{.print-only}|150 XP|
+|[1 Harvester, Less Incarnation](/monster/harvester-lesser-incarnation){.screen-only}**1 Harvester, Less Incarnation**{.print-only}|150 XP|
+{.enemy}
 
-### Cultists (6)
+(print-page)
 
 ```Monster {.purple}
 name: Cultist
@@ -420,7 +415,9 @@ languages: the languages it knew in life
 challenge: 5
 skills: Perception +3, Stealth +6
 token: 
-image: 
+image:
+column-after: traits
+column-after-property: Misty Escape
 traits:
   - name: Regeneration
     description: "The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn’t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn."
@@ -433,7 +430,7 @@ traits:
       Sword (specific) to the Heart. The Harvester is destroyed if a specific legendary weapon is driven into its heart while it is incapacitated in its resting place."
 actions:
   - name: Scythe
-    description: "(Heavy, two_handed) _ 4 (2d4) slashing +6 to hit plus 7 (2d6) necrotic damage damage. 5 lb. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."   
+    description: "Melee Weapon Attack: +6 to hit, reach 10 ft., 4 (2d4) slashing plus 7 (2d6) necrotic damage damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."   
   - name: Claws
     description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4+3) slashing damage. Instead of dealing damage, the Harvester can grapple the target (escape DC 13)."
 ```

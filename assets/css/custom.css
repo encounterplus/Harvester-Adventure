@@ -41,6 +41,36 @@ ul.toc li.category a {
     font-size: 10px;
 }
 
+table.enemy tbody tr {
+    background: #d6c3e4;
+    line-height: unset;
+}
+
+table.enemy tbody tr td {
+    padding: 1px 15px;
+}
+
+table.enemy tbody tr {
+    line-height: 1.3;
+}
+
+table.enemy {
+    background: #d6c3e4;
+    border-collapse: collapse;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    overflow: hidden;
+}
+
+table.enemy tbody tr.footnote {
+    font-size: 11px;
+}
+
+a {
+    color: #3f0d58;
+    font-weight: bold;
+}
+
 @media print {
     blockquote-read-wrap {
         padding-top: 0px;
