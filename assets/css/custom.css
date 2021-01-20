@@ -4,7 +4,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #3f0d58;
+    color: #3f0d58;
+}
+
+h3 {
+    border-bottom: 1px solid #3f0d58;
 }
 
 blockquote {
