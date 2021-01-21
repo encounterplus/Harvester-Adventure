@@ -7,5 +7,23 @@ category: adventure
 author: Eric Bergeron
 cover: Cover.jpg
 print-cover: PrintCover.jpg
-version: 210
+version: 2
 auto-increment-version: true
+maps:
+  - path: Maps/st-fredericks-crypt-map.zip
+    order: 0
+    parent: saint-fredericks-crypt
+    slug: st-fredericks-crypt-map
+  - path: Maps/st-fredericks-crypt-entrance-map.zip
+    order: -1
+    parent: saint-fredericks-crypt
+    slug: st-fredericks-crypt-entrance-map
+  - path: Maps/campsite-map.zip
+    order: 0
+    parent: campsite
+    slug: campsite-map
+encounters:
+  - path: Encounters/suicide-ambush-encounter.zip
+    order: 0
+    parent: campsite-map
+    slug: suicide-ambush-encounter

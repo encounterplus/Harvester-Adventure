@@ -125,8 +125,8 @@ cha: 11
 senses: passive Perception 10
 languages: Common, Elvish
 challenge: 2
-token: 
-image: 
+token: MayorToken.png
+image: MayorPage.jpg
 actions:
   - name: Greatsword
     description: " Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) slashing damage."  
@@ -160,8 +160,8 @@ cha: 11
 senses: passive Perception 10
 languages: any one language (usually common)
 challenge: 1
-token: 
-image: 
+token: MayorGuardToken.png
+image: MayorGuardPage.jpg
 traits:
   - name: Treasure
     description: 1 quiver with 1D12 +12 arrows, 1 belt pouch with 1D20 copper, 1D12 silver, and 1D12 gold.
@@ -202,8 +202,8 @@ cha: 10
 senses: passive Perception 12
 languages: any one language (usually common)
 challenge: 1/8
-token: 
-image: 
+token: MercenaryToken.png
+image: MercenaryPage.jpg
 traits:
   - name: Treasure
     description: 1D12 +12 bolts within a bolt case. 1 belt pouch with 1D20 copper, 1D12 silver, and 1D6 gold
@@ -234,8 +234,8 @@ cha: 10
 senses: passive Perception 12
 languages: any one language (usually common)
 challenge: 1/8
-token: 
-image: 
+token: MercenaryToken.png
+image: MercenaryPage.jpg
 traits:
   - name: Treasure
     description: 1 crossbow bolt with 1D12 + 6 Bolts, 1 haubert/chain armor (1D8 TP, Light.), 1 belt pouch with 1D20 copper, 1D12 silver, and 1D12 gold
@@ -276,8 +276,8 @@ cha: 15
 senses: passive Perception 10
 languages: Common, Thieves' Cant
 challenge: 0
-token: 
-image: 
+token: JeanLucToken.png
+image: JeanLucPage.jpg
 traits:
   - name: Treasure
     description: 1 crossbow bolt with 1D12 + 6 Bolts, 1 haubert/chain armor (1D8 TP, Light.), 1 belt pouch with 1D20 copper, 1D12 silver, and 1D12 gold
@@ -378,7 +378,7 @@ languages: Infernal
 challenge: 1/8
 skills: Deception +2, Religion +2
 token: 
-image: 
+image:
 traits:
   - name: Dark Devotion
     description: "The cultist has advantage on saving throws against being charmed or frightened."
@@ -413,8 +413,8 @@ senses: darkvision 60 ft., passive Perception 13
 languages: the languages it knew in life
 challenge: 5
 skills: Perception +3, Stealth +6
-token: 
-image:
+token: HarvesterToken.png
+image: Harvester.png
 column-after: traits
 column-after-property: Misty Escape
 traits:
