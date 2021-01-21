@@ -24,7 +24,7 @@ As the party gets near the entrance they can smell rot and will notice black fli
 
 The gore covering the walls emits an unbearable stench of death. Two Soul Seeker Monsters reside here, and if the party isn’t quiet, they immediately charge at them, flailing and contorting their bodies in a macabre way. The soul seekers only wear rags or nothing at all.
 
-If the party can search and loot the area, pretty much everything is rotten or broken, and the only thing of interest are two chests; one on the northern shelf, and the bigger chest on the ground between crates farther north. The small unlocked chest contains 7 simple copper rings worth approximately 10 gold each. A blue gemstone worth approximately 35 gold can be found in a fake bottom. A larger chest can trigger a poison needle trap when a PC attempt to unlock it (SRD5, p. 198) . When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 (2d10) poison damage, and must succeed on a DC 15 Constitution saving throw or be poisoned for 1 hour. A successful DC 20 Intelligence (Investigation) check allows a character to deduce the trap’s presence from alterations made to the lock to accommodate the needle. A successful DC 15 Dexterity check using thieves’ tools disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap (System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc). The trapped chest contains a good deal of gold coins, 5D20+50 to be exact. It also hides a set of thief tools and a magical +1 leather armor.
+If the party can search and loot the area, pretty much everything is rotten or broken, and the only thing of interest are two chests; one on the northern shelf, and the bigger chest on the ground between crates farther north. The small unlocked chest contains 7 simple copper rings worth approximately 10 gold each. A blue gemstone worth approximately 35 gold can be found in a fake bottom. A larger chest can trigger a poison needle trap when a PC attempt to unlock it (SRD5, p. 198) . When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 ([2D10](/roll/2d10){.screen-only}**2D10**{.print-only}) poison damage, and must succeed on a DC 15 Constitution saving throw or be poisoned for 1 hour. A successful DC 20 Intelligence (Investigation) check allows a character to deduce the trap’s presence from alterations made to the lock to accommodate the needle. A successful DC 15 Dexterity check using thieves’ tools disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap (System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc). The trapped chest contains a good deal of gold coins, 5D20+50 to be exact. It also hides a set of thief tools and a magical +1 leather armor.
 
 The other thing of note is that the northeast passageway features a very long blood trail and deep fingernail scratch marks can be found on the ground, as if one were trying to hold on.
 
@@ -79,7 +79,7 @@ actions:
 
 > You approach an area filled with water, the tight passageways forming a natural labyrinth. The water dances and reflects everywhere on the walls. Nothing can be heard other than the steady drips of water. {.read}
 
-The water is only 1 foot deep, but the splashes can warn the Harvester of Souls about the presence of the party. However there is 50% chance that the harvester does not react to mere movement, believing the noise is from the soul seekers found in area 2.
+The water is only 1 foot deep, but the splashes can warn the Harvester of Souls about the presence of the party. However there is [50%](/roll/1d100){.screen-only}**50%**{.print-only} chance that the harvester does not react to mere movement, believing the noise is from the soul seekers found in area 2.
 
 ```Monster {.purple}
 name: Giant Bat
@@ -113,8 +113,7 @@ System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc. {.footn
 
 The dead end in the east wall used to serve as a latrine for the former bandits living here. It is not noteworthy aside from the foul odor.
 
-If the party heads to the small passageway in area 
-4, there is 25% chance of encountering giant bats. The bats hang from the high ceiling of the passageway, 20 to 30 feet high. If noise occurs, they wake up and attack. As a warning to the party, large amounts of guano can be found on this floor.
+If the party heads to the small passageway in area 4, there is [25%](/roll/1d100){.screen-only}**25%**{.print-only} chance of encountering giant bats. The bats hang from the high ceiling of the passageway, 20 to 30 feet high. If noise occurs, they wake up and attack. As a warning to the party, large amounts of guano can be found on this floor.
 
 ![Giant Bat](GiantBat.png =400x){.print-center}
 
@@ -131,7 +130,7 @@ If the party heads to the small passageway in area
 
 ![Harvester Encounter](HarvesterEncounter.jpg){.size-cover}
 
-This area is designed as the final showdown with the harvester, but without the Demon Hunter sword, this fiend cannot be stopped. If one of the heroes sticks the monster with the Demon Hunter sword it immobilizes the Harvester. The party can actually transport the harvester that way and it will be unable to attack and its sentience is suppressed. The scythe of the harvester is an unhallowed artifact of Lilith, is a cursed weapon, and cannot be removed from the hand of its master. Trying to do so can render a PC to ashes and the scythe goes back to its master instantly (immediate nonphysical 3D6 Necrotic damage. If ever a full party gets defeated and they drop the sword, the Harvester cannot touch that sword. It will flee to seek another lair and hope no one finds that sword.
+This area is designed as the final showdown with the harvester, but without the Demon Hunter sword, this fiend cannot be stopped. If one of the heroes sticks the monster with the Demon Hunter sword it immobilizes the Harvester. The party can actually transport the harvester that way and it will be unable to attack and its sentience is suppressed. The scythe of the harvester is an unhallowed artifact of Lilith, is a cursed weapon, and cannot be removed from the hand of its master. Trying to do so can render a PC to ashes and the scythe goes back to its master instantly (immediate nonphysical [3D6](/roll/3d6){.screen-only}**3D6**{.print-only} Necrotic damage. If ever a full party gets defeated and they drop the sword, the Harvester cannot touch that sword. It will flee to seek another lair and hope no one finds that sword.
 
 No matter what they decide, if the party provides proof of the defeat of the harvester, then the lord mayor rewards the party with the gold promised and each PC gets 1 mile of arable land in addition to a riding horse.
 
@@ -164,6 +163,8 @@ languages: the languages it knew in life
 challenge: 5
 token: 
 image: 
+column-after: traits
+column-after-property: regeneration
 traits:
   - name: Regeneration
     description: "The Harvester regains 10 hit points at the start of its turn (sunlight or running water has no effect on this). If the Harvester takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn."
