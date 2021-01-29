@@ -7,7 +7,7 @@ category: adventure
 author: Eric Bergeron
 cover: Cover.jpg
 print-cover: PrintCover.jpg
-version: 6
+version: 50
 auto-increment-version: true
 maps:
   - path: Maps/st-fredericks-crypt-map.zip
