@@ -146,30 +146,30 @@ slug: harvester-greater-incarnation
 size: Medium
 type: Undead
 alignment: Neutral Evil
-ac: 15 (natural armor)
-hp: 82 (11d8+33)
+ac: 16 (natural armor)
+hp: 82 (17d8+68)
 speed: 30 ft.
-str: 16
-dex: 16
-con: 16
-int: 11
-wis: 10
-cha: 12
-saves: Dex +6, Wis +3
-skills: Perception +3, Stealth +6
-resistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-senses: darkvision 60 ft., passive Perception 13
-languages: the languages it knew in life
-challenge: 5
+str: 18
+dex: 18
+con: 18
+int: 17
+wis: 15
+cha: 8
+saves: Dex +9, Wis +2
+skills: Perception +73, Stealth +9
+resistances: Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
+senses: Darkvision 60 ft., Passive Perception 13
+languages: Infernal, Common, Elven.
+challenge: 13
 token: 
 image: 
 column-after: traits
 column-after-property: regeneration
 traits:
   - name: Regeneration
-    description: "The Harvester regains 10 hit points at the start of its turn (sunlight or running water has no effect on this). If the Harvester takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn."
+    description: "The Harvester regains 20 hit points at the start of its turn (sunlight or running water has no effect on this), so long as it has at least 1 hit point."
   - name: Misty Escape
-    description: "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist instead of falling Unconscious, (regardless of sunlight or running water). If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its humanoid form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its humanoid form at full hitpoints! If it rests anywhere outside of its lair, then is then Paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point."
+    description: "When it drops to 0 hit points outside its resting place, the Harvester transforms into a cloud of mist instead of falling Unconscious, (regardless of sunlight or running water). If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its humanoid form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its humanoid form at full hitpoints! If it rests anywhere outside of its lair, then is then Paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point."
   - name: Weaknesses
     description: " The Harvester has the following flaws:
     
