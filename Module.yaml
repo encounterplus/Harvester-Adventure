@@ -7,7 +7,7 @@ category: adventure
 author: Eric Bergeron
 cover: Cover.jpg
 print-cover: PrintCover.jpg
-version: 7
+version: 8
 auto-increment-version: true
 maps:
   - path: Maps/harvesters-lair-map.zip
