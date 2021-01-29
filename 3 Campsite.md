@@ -358,6 +358,8 @@ If the PCs get too close to the Harvester before he’s ready to entirely reveal
 
 (print-page)
 
+![Harvester Encounter](HarvesterEncounter.jpg){.size-cover}
+
 ```Monster {.purple}
 name: Cultist
 slug: cultist
