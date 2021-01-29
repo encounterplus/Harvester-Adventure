@@ -1,6 +1,6 @@
 - Need an encounter (for E+) with table (for PDF) for spider tunnel (I can do this)
 - Need an encounter with table for Skull Crawler (I can do this)
-- Harvester, Greater Incarnation - stats seem off and still say Vampire. 
+ 
 - Harvester, Greater Incarnation needs encounter with table
 - Need an encounter with table for Soul Seeker (I can do this)
 - Need an encounter with table for Giant Bat (I can do this)
