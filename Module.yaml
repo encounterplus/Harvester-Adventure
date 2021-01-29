@@ -7,9 +7,13 @@ category: adventure
 author: Eric Bergeron
 cover: Cover.jpg
 print-cover: PrintCover.jpg
-version: 73
+version: 7
 auto-increment-version: true
 maps:
+  - path: Maps/harvesters-lair-map.zip
+    order: 0
+    parent: harvesters-lair
+    slug: harvesters-lair-map
   - path: Maps/st-fredericks-crypt-map.zip
     order: 0
     parent: saint-fredericks-crypt

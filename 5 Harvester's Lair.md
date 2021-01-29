@@ -18,7 +18,7 @@ cover: HarvestersLairMap.jpg
 
 As the party gets near the entrance they can smell rot and will notice black flies flying and buzzing all over the place.
 
-## 2: Old bandit quarters
+## 2: Old Bandit Quarters
 
 **Read:**
 
@@ -98,12 +98,12 @@ The water is only 1 foot deep, but the splashes can warn the Harvester of Souls 
 |||
 |---|---|
 |[**Encounter: Giant Bats**](giant-bats-encounter){.screen-only}**Encounter: Giant Bats**{.print-only}||
-|[4 Giant Bats](/monster/giant-bat){.screen-only}**4 Giant Bats**{.print-only}|200 XP|
+|[5 Giant Bats](/monster/giant-bat){.screen-only}**5 Giant Bats**{.print-only}|250 XP|
 {.enemy}
 
 The dead end in the east wall used to serve as a latrine for the former bandits living here. It is not noteworthy aside from the foul odor.
 
-If the party heads to the small passageway in area 4, there is [25%](/roll/1d100){.screen-only}**25%**{.print-only} chance of encountering giant bats. The bats hang from the high ceiling of the passageway, 20 to 30 feet high. If noise occurs, they wake up and attack. As a warning to the party, large amounts of guano can be found on this floor.
+If the party heads to the small passageway into [area 4](harvesters-lair-4-the-room-of-the-harvester-and-the-conclusion){.print-only}[area 4](4-the-room-of-the-harvester-and-the-conclusion){.screen-only}, there is [25%](/roll/1d100){.screen-only}**25%**{.print-only} chance of encountering giant bats. The bats hang from the high ceiling of the passageway, 20 to 30 feet high. If noise occurs, they wake up and attack. As a warning to the party, large amounts of guano can be found on this floor.
 
 ![Giant Bat](GiantBat.png =400x){.print-center}
 
@@ -139,7 +139,7 @@ System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc. {.footn
 
 (print-page)
 
-## 4: The room of the harvester and the conclusion
+## 4: The Room of the Harvester & Conclusion
 
 **Read:**
 
@@ -149,15 +149,24 @@ System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc. {.footn
 
 This area is designed as the final showdown with the harvester, but without the Demon Hunter sword, this fiend cannot be stopped. If one of the heroes sticks the monster with the Demon Hunter sword it immobilizes the Harvester. The party can actually transport the harvester that way and it will be unable to attack and its sentience is suppressed. The scythe of the harvester is an unhallowed artifact of Lilith, is a cursed weapon, and cannot be removed from the hand of its master. Trying to do so can render a PC to ashes and the scythe goes back to its master instantly (immediate nonphysical [3D6](/roll/3d6){.screen-only}**3D6**{.print-only} Necrotic damage. If ever a full party gets defeated and they drop the sword, the Harvester cannot touch that sword. It will flee to seek another lair and hope no one finds that sword.
 
-No matter what they decide, if the party provides proof of the defeat of the harvester, then the lord mayor rewards the party with the gold promised and each PC gets **1 mile of arable land** in addition to [a riding horse](https://www.dndbeyond.com/equipment/riding-horse){.print-only}[a riding horse](/monster/riding-horse){.screen-only}.
+|||
+|---|---|
+|[**Encounter: Harvester, Greater Incarnation**](harvester-encounter){.screen-only}**Encounter: Harvester, Greater Incarnation**{.print-only}||
+|[1 Harvester, Greater Incarnation](/monster/harvester-greater-incarnation){.screen-only}**Harvester, Greater Incarnation**{.print-only}|2,900 XP|
+{.enemy}
 
 (print-column)
 
 ![Harvester Room](RoomOfHarvester.jpg =500x){.print-center}
 
+No matter what they decide, if the party provides proof of the defeat of the harvester, then the lord mayor rewards the party with the gold promised and each PC gets **1 mile of arable land** in addition to [a riding horse](https://www.dndbeyond.com/equipment/riding-horse){.print-only}[a riding horse](/monster/riding-horse){.screen-only}.
+
 Of course, a banquet is thrown in their name and the locals henceforth greet the party as heroes.
 
 The harvester’s room if searched and looted, the party finds **49 gold** in the **belt pouch** and the chest contains **silverware** worth approximately **243 gold**.
+
+
+![Harvester](Harvester.png =350x){.print-bottom-right}
 
 (print-page)
 
@@ -168,7 +177,7 @@ size: Medium
 type: Undead
 alignment: Neutral Evil
 ac: 16 (natural armor)
-hp: 82 (17d8+68)
+hp: 144 (17d8+68)
 speed: 30 ft.
 str: 18
 dex: 18
@@ -177,15 +186,15 @@ int: 17
 wis: 15
 cha: 8
 saves: Dex +9, Wis +2
-skills: Perception +73, Stealth +9
+skills: Perception +7, Stealth +9
 resistances: Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-senses: Darkvision 60 ft., Passive Perception 13
-languages: Infernal, Common, Elven.
-challenge: 13
+senses: Darkvision 120 ft., Passive Perception 17
+languages: Infernal, Common, Elven
+challenge: 7
 token: 
 image: 
 column-after: traits
-column-after-property: regeneration
+column-after-property: misty escape
 traits:
   - name: Regeneration
     description: "The Harvester regains 20 hit points at the start of its turn (sunlight or running water has no effect on this), so long as it has at least 1 hit point."
@@ -193,15 +202,17 @@ traits:
     description: "When it drops to 0 hit points outside its resting place, the Harvester transforms into a cloud of mist instead of falling Unconscious, (regardless of sunlight or running water). If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its humanoid form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its humanoid form at full hitpoints! If it rests anywhere outside of its lair, then is then Paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point."
   - name: Weaknesses
     description: " The Harvester has the following flaws:
-    
+
+
         Sword (specific) to the Heart. The Harvester is destroyed if a specific legendary weapon is driven into its heart while it is incapacitated in its resting place."
 actions:
   - name: Bite
     description: "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6+2) piercing damage." 
+  - name: Scythe
+    description: "Melee Weapon Attack: +6 to hit, reach 10 ft., 4 (2d4) slashing plus 7 (2d6) necrotic damage damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the Harvester regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."   
+  - name: Claws
+    description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4+3) slashing damage. Instead of dealing damage, the Harvester can grapple the target (escape DC 13)."
 ```
-
-![Harvester](Harvester.png =500x){.print-bottom-right}
-
-System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc
+Derived from Vampire, System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.{.footnote}
 
 

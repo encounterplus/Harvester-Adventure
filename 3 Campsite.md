@@ -421,9 +421,9 @@ column-after: traits
 column-after-property: Misty Escape
 traits:
   - name: Regeneration
-    description: "The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn’t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn."
+    description: "The Harvester regains 10 hit points at the start of its turn if it has at least 1 hit point and isn’t in sunlight or running water. If the Harvester takes radiant damage or damage from holy water, this trait doesn’t function at the start of the Harvester’s next turn."
   - name: Misty Escape
-    description: "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist instead of falling Unconscious, provided that it isn’t in sunlight or running water. If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then Paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point."
+    description: "When it drops to 0 hit points outside its resting place, the Harvester transforms into a cloud of mist instead of falling Unconscious, (regardless of sunlight or running water). If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its humanoid form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its humanoid form at full hitpoints! If it rests anywhere outside of its lair, then is then Paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point."
   - name: Weaknesses
     description: "The Harvester has the following flaws:
     
@@ -431,7 +431,8 @@ traits:
       Sword (specific) to the Heart. The Harvester is destroyed if a specific legendary weapon is driven into its heart while it is incapacitated in its resting place."
 actions:
   - name: Scythe
-    description: "Melee Weapon Attack: +6 to hit, reach 10 ft., 4 (2d4) slashing plus 7 (2d6) necrotic damage damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."   
+    description: "Melee Weapon Attack: +6 to hit, reach 10 ft., 4 (2d4) slashing plus 7 (2d6) necrotic damage damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the Harvester regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."   
   - name: Claws
     description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4+3) slashing damage. Instead of dealing damage, the Harvester can grapple the target (escape DC 13)."
 ```
+Derived from Vampire, System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.{.footnote}
