@@ -70,8 +70,8 @@ conditionImmunities: charmed, exhaustion, poisoned
 senses: darkvision 60 ft., passive Perception 10
 languages: Common
 challenge: 1
-token: 
-image: 
+token: SoulSeekerToken.png
+image: SoulSeeker.png
 actions:
   - name: Bite
     description: "Melee Weapon Attack: +2 to hit, reach 5 ft. Hit: 2d6+2 damage to one creature."  
@@ -124,8 +124,8 @@ wis: 12
 cha: 6
 senses: blindsight 60 ft., passive Perception 11
 challenge: 1/4
-token: 
-image: 
+token: GiantBatToken.png
+image: GiantBat.png
 traits:
   - name: Echolocation
     description: "The bat can’t use its blindsight while deafened."
@@ -191,8 +191,8 @@ resistances: Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attac
 senses: Darkvision 120 ft., Passive Perception 17
 languages: Infernal, Common, Elven
 challenge: 7
-token: 
-image: 
+token: HarvesterToken.png
+image: Harvester.png
 column-after: traits
 column-after-property: misty escape
 traits:

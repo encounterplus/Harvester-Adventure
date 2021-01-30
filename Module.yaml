@@ -7,7 +7,7 @@ category: adventure
 author: Eric Bergeron
 cover: Cover.jpg
 print-cover: PrintCover.jpg
-version: 8
+version: 17
 auto-increment-version: true
 maps:
   - path: Maps/harvesters-lair-map.zip
@@ -31,3 +31,27 @@ encounters:
     order: 0
     parent: campsite-map
     slug: suicide-ambush-encounter
+  - path: Encounters/bull-brick-encounter.zip
+    order: 1
+    parent: st-fredericks-crypt-map
+    slug: bull-brick-encounter
+  - path: Encounters/teardrop-spider-encounter.zip
+    order: 2
+    parent: st-fredericks-crypt-map
+    slug: teardrop-spider-encounter
+  - path: Encounters/skull-crawler-encounter.zip
+    order: 3
+    parent: st-fredericks-crypt-map
+    slug: skull-crawler-encounter
+  - path: Encounters/soul-seekers-encounter.zip
+    order: 1
+    parent: harvesters-lair-map
+    slug: soul-seekers-encounter
+  - path: Encounters/giant-bats-encounter.zip
+    order: 2
+    parent: harvesters-lair-map
+    slug: giant-bats-encounter
+  - path: Encounters/harvester-encounter.zip
+    order: 3
+    parent: harvesters-lair-map
+    slug: harvester-encounter
